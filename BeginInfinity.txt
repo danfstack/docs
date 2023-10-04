@@ -1,0 +1,826 @@
+﻿==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 12 | location 178-185 | Added on Monday, 27 March 2023 18:57:09
+
+much for inductivism. And since inductivism is false, empiricism must be as well. For if one cannot derive predictions from experience, one certainly cannot derive explanations. Discovering a new explanation is inherently an act of creativity. To interpret dots in the sky as white-hot, million-kilometre spheres, one must first have thought of the idea of such spheres. And then one must explain why they look small and cold and seem to move in lockstep around us and do not fall down. Such ideas do not create themselves, nor can they be mechanically derived from anything: they have to be guessed – after which they can be criticized and tested. To the extent that experiencing dots ‘writes’ something into our brains, it does not write explanations but only dots. Nor is nature a book: one could try to ‘read’ the dots in the sky for a lifetime – many lifetimes – without learning anything about what they really are.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 18 | location 272-274 | Added on Tuesday, 28 March 2023 06:50:33
+
+This is why the Royal Society (one of the earliest scientific academies, founded in London in 1660) took as its motto ‘Nullius in verba’, which means something like ‘Take no one’s word for it.’
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 23 | location 338-343 | Added on Tuesday, 28 March 2023 06:56:52
+
+The essence of experimental testing is that there are at least two apparently viable theories known about the issue in question, making conflicting predictions that can be distinguished by the experiment. Just as conflicting predictions are the occasion for experiment and observation, so conflicting ideas in a broader sense are the occasion for all rational thought and inquiry. For example, if we are simply curious about something, it means that we believe that our existing ideas do not adequately capture or explain it. So, we have some criterion that our best existing explanation fails to meet. The criterion and the existing explanation are conflicting ideas. I shall call a situation in which we experience conflicting ideas a problem.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 24 | location 357-358 | Added on Tuesday, 28 March 2023 06:58:35
+
+think that there is only one way to science – or to philosophy, for that matter: to meet a problem, to see its beauty and
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 24 | location 357-361 | Added on Tuesday, 28 March 2023 06:58:43
+
+Popper wrote: I think that there is only one way to science – or to philosophy, for that matter: to meet a problem, to see its beauty and fall in love with it; to get married to it and to live with it happily, till death do ye part – unless you should meet another and even more fascinating problem or unless, indeed, you should obtain a solution. But even if you do obtain a solution, you may then discover, to your delight, the existence of a whole family of enchanting, though perhaps difficult, problem children . . . Realism and the Aim of Science (1983)
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 29 | location 439-443 | Added on Tuesday, 28 March 2023 07:04:56
+
+As the physicist Richard Feynman said, ‘Science is what we have learned about how to keep from fooling ourselves.’ By adopting easily variable explanations, the gambler and prophet are ensuring that they will be able to continue fooling themselves no matter what happens. Just as thoroughly as if they had adopted untestable theories, they are insulating themselves from facing evidence that they are mistaken about what is really there in the physical world.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 34 | location 507-510 | Added on Tuesday, 28 March 2023 19:40:01
+
+The ideal that explanatory science strives for is nicely described by the quotation from Wheeler with which I began this chapter: ‘Behind it all is surely an idea so simple, so beautiful, that when we grasp it – in a decade, a century, or a millennium – we will all say to each other, how could it have been otherwise? [my italics].’
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 36 | location 538-540 | Added on Tuesday, 28 March 2023 19:58:44
+
+The theory reaches out, as it were, from its finite origins inside one brain that has been affected only by scraps of patchy evidence from a small part of one hemisphere of one planet – to infinity. This reach of explanations is another meaning of ‘the beginning of infinity’. It is the ability of some of them to solve problems beyond those that they were created to solve.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 42 | location 642-642 | Added on Tuesday, 28 March 2023 20:08:13
+
+The universe is not there to overwhelm us; it is our home, and our resource. The bigger the better.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 46 | location 692-697 | Added on Tuesday, 28 March 2023 20:13:20
+
+The better we come to understand phenomena remote from our everyday experience, the longer those chains of interpretation become, and every additional link necessitates more theory. A single unexpected or misunderstood phenomenon anywhere in the chain can, and often does, render the resulting sensory experience arbitrarily misleading. Yet, over time, the conclusions that science has drawn have become ever truer to reality. Its quest for good explanations corrects the errors, allows for the biases and misleading perspectives, and fills in the gaps. This is what we can achieve when, as Feynman said, we keep learning more about how not to fool ourselves.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 52 | location 796-799 | Added on Tuesday, 28 March 2023 20:23:37
+
+And in the broader sense they are so misleading that, if you were seeking maxims worth being carved in stone and recited each morning before breakfast, you could do a lot worse than to use their negations. That is to say, the truth is that People are significant in the cosmic scheme of things; and The Earth’s biosphere is incapable of supporting human life.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 53 | location 813-817 | Added on Tuesday, 28 March 2023 20:25:15
+
+Only very unusual circumstances can make anything colder than those microwaves. Nothing in the universe is known to be cooler than about one kelvin – except in certain physics laboratories on Earth. There, the record low temperature achieved is below one billionth of a kelvin. At those extraordinary temperatures, the glow of ordinary matter is effectively extinguished. The resulting ‘non-glowing ordinary matter’ on our planet is an exceedingly exotic substance in the universe at large. It may well be that the interiors of refrigerators constructed by physicists are by far the coldest and darkest places in the universe. Far from typical.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 56 | location 856-869 | Added on Tuesday, 28 March 2023 20:28:40
+
+That is the situation to which evolution adapts organisms. And that, therefore, is the lifestyle in which the Earth’s biosphere ‘seems adapted’ to sustaining them. The biosphere only ever achieves stability – and only temporarily at that – by continually neglecting, harming, disabling and killing individuals. Hence the metaphor of a spaceship or a life-support system, is quite perverse: when humans design a life-support system, they design it to provide the maximum possible comfort, safety and longevity for its users within the available resources; the biosphere has no such priorities. Nor is the biosphere a great preserver of species. In addition to being notoriously cruel to individuals, evolution involves continual extinctions of entire species. The average rate of extinction since the beginning of life on Earth has been about ten species per year (the number is known only very approximately), becoming much higher during the relatively brief periods that palaeontologists call ‘mass extinction events’. The rate at which species have come into existence has on balance only slightly exceeded the extinction rate, and the net effect is that the overwhelming majority of species that have ever existed on Earth (perhaps 99.9 per cent of them) are now extinct. Genetic evidence suggests that our own species narrowly escaped extinction on at least one occasion. Several species closely related to ours did become extinct. Significantly, the ‘life-support system’ itself wiped them out – by means such as natural disasters, evolutionary changes in other species, and climate change. Those cousins of ours had not invited extinction by changing their lifestyles or overloading the biosphere: on the contrary, it wiped them out because they were living the lifestyles that they had evolved to live, and in which, according to the Spaceship Earth metaphor, the biosphere had been ‘supporting’ them.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 58 | location 886-890 | Added on Tuesday, 28 March 2023 20:30:46
+
+So the biosphere is incapable of supporting human life. From the outset, it was only human knowledge that made the planet even marginally habitable by humans, and the enormously increased capacity of our life-support system since then (in terms both of numbers and of security and quality of life) has been entirely due to the creation of human knowledge. To the extent that we are on a ‘spaceship’, we have never been merely its passengers, nor (as is often said) its stewards, nor even its maintenance crew: we are its designers and builders. Before the designs created by humans, it was not a vehicle, but only a heap of dangerous raw materials.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 59 | location 894-898 | Added on Tuesday, 28 March 2023 20:32:22
+
+The moral component of the Spaceship Earth metaphor is therefore somewhat paradoxical. It casts humans as ungrateful for gifts which, in reality, they never received. And it casts all other species in morally positive roles in the spaceship’s life-support system, with humans as the only negative actors. But humans are part of the biosphere, and the supposedly immoral behaviour is identical to what all other species do when times are good – except that humans alone try to mitigate the effect of that response on their descendants and on other species.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 72 | location 1093-1094 | Added on Sunday, 9 April 2023 21:28:44
+
+Today on Earth, in the short run, there are still countless problems to be solved to eliminate even starvation and other forms of extreme human suffering that date back to prehistory.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 75 | location 1140-1142 | Added on Sunday, 9 April 2023 21:31:04
+
+Neither the human condition in particular nor our explanatory knowledge in general will ever be perfect, nor even approximately perfect. We shall always be at the beginning of infinity.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 74 | location 1131-1134 | Added on Sunday, 9 April 2023 21:31:15
+
+It is inevitable that we face problems, but no particular problem is inevitable. We survive, and thrive, by solving each problem as it comes up. And, since the human ability to transform nature is limited only by the laws of physics, none of the endless stream of problems will ever constitute an impassable barrier. So a complementary and equally important truth about people and the physical world is that problems are soluble. By ‘soluble’ I mean that the right knowledge would solve them.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 76 | location 1151-1156 | Added on Sunday, 9 April 2023 21:33:04
+
+The Continental Enlightenment was impatient for the perfected state – which led to intellectual dogmatism, political violence and new forms of tyranny. The French Revolution of 1789 and the Reign of Terror that followed it are the archetypal examples. The British Enlightenment, which was evolutionary and cognizant of human fallibility, was impatient for institutions that did not stifle gradual, continuing change. It was also enthusiastic for small improvements, unbounded in the future. (See, for instance, the historian Jenny Uglow’s book Lunar Men.) This is, I believe, the movement that was successful in its pursuit of progress, so in this book when I refer to ‘the’ Enlightenment I mean the
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 76 | location 1156-1156 | Added on Sunday, 9 April 2023 21:33:18
+
+‘British’ one.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 76 | location 1151-1156 | Added on Sunday, 9 April 2023 21:33:22
+
+The Continental Enlightenment was impatient for the perfected state – which led to intellectual dogmatism, political violence and new forms of tyranny. The French Revolution of 1789 and the Reign of Terror that followed it are the archetypal examples. The British Enlightenment, which was evolutionary and cognizant of human fallibility, was impatient for institutions that did not stifle gradual, continuing change. It was also enthusiastic for small improvements, unbounded in the future. (See, for instance, the historian Jenny Uglow’s book Lunar Men.) This is, I believe, the movement that was successful in its pursuit of progress, so in this book when I refer to ‘the’ Enlightenment I mean the ‘British’ one.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 78 | location 1192-1193 | Added on Monday, 10 April 2023 19:18:26
+
+At any instant, a typical cube contains evidence, at that level of detail, about more than a trillion stars and their planets, simultaneously.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 79 | location 1203-1208 | Added on Monday, 10 April 2023 19:19:00
+
+So a typical location in the universe is amenable to the open-ended creation of knowledge. And therefore so are almost all other kinds of environment, since they have more matter, more energy and easier access to evidence than intergalactic space. The thought experiment considered almost the worst possible case. Perhaps the laws of physics do not allow knowledge-creation inside, say, the jet of a quasar. Or perhaps they do. But either way, in the universe at large, knowledge-friendliness is the rule, not the exception. That is to say, the rule is person-friendliness to people who have the relevant knowledge. Death is the rule for those who do not. These are the same rules that prevailed in the Great Rift Valley from whence we came, and have prevailed ever since.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 86 | location 1312-1316 | Added on Monday, 10 April 2023 19:29:00
+
+Like an explosive awaiting a spark, unimaginably numerous environments in the universe are waiting out there, for aeons on end, doing nothing at all or blindly generating evidence and storing it up or pouring it out into space. Almost any of them would, if the right knowledge ever reached it, instantly and irrevocably burst into a radically different type of physical activity: intense knowledge-creation, displaying all the various kinds of complexity, universality and reach that are inherent in the laws of nature, and transforming that environment from what is typical today into what could become typical in the future. If we want to, we could be that spark.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 89 | location 1361-1362 | Added on Wednesday, 3 May 2023 01:53:06
+
+Similarly, the problem of explaining the biosphere is that of explaining how the knowledge embodied in its adaptations could possibly have been created. In particular, a putative
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 89 | location 1360-1369 | Added on Wednesday, 3 May 2023 01:53:13
+
+Before a conjuring trick is ever performed, its explanation must be known to the person who invented it. The origin of that knowledge is the origin of the trick. Similarly, the problem of explaining the biosphere is that of explaining how the knowledge embodied in its adaptations could possibly have been created. In particular, a putative designer of any organism must also have created the knowledge of how that organism works. Creationism thus faces an inherent dilemma: is the designer a purely supernatural being – one who was ‘just there’, complete with all that knowledge – or not? A being who was ‘just there’ would serve no explanatory purpose (in regard to the biosphere), since then one could more economically say that the biosphere itself ‘just happened’, complete with that same knowledge, embodied in organisms. On the other hand, to whatever extent a creationist theory provides explanations about how supernatural beings designed and created the biosphere, they are no longer supernatural beings but merely unseen ones. They might, for instance, be an extraterrestrial civilization. But then the theory is not really creationism – unless it proposes that the extraterrestrial designers themselves had supernatural designers.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 90 | location 1377-1381 | Added on Wednesday, 3 May 2023 01:55:04
+
+There are even examples of non-functional design. For instance, most animals have a gene for synthesizing vitamin C, but in primates, including humans, though that gene is recognizably present, it is faulty: it does not do anything. This is very difficult to account for except as a vestigial feature that primates have inherited from non-primate ancestors. One could retreat to the position that all these apparently poor design features do have some undiscovered purpose. But that is a bad explanation: it could be used to claim that any poorly designed or undesigned entity was perfectly designed.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 100 | location 1528-1532 | Added on Wednesday, 3 May 2023 02:41:16
+
+The fundamental error being made by Lamarck has the same logic as inductivism. Both assume that new knowledge (adaptations and scientific theories respectively) is somehow already present in experience, or can be derived mechanically from experience. But the truth is always that knowledge must be first conjectured and then tested. That is what Darwin’s theory says: first, random mutations happen (they do not take account of what problem is being solved); then natural selection discards the variant genes that are less good at causing themselves to be present again in future generations.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 103 | location 1579-1584 | Added on Wednesday, 3 May 2023 02:45:01
+
+If the best-spreading genes impose sufficiently large disadvantages on the species, the species becomes extinct. Nothing in biological evolution prevents that. It has presumably happened many times in the history of life on Earth, to species less lucky than the peacock. Dawkins named his tour-de-force account of neo-Darwinism The Selfish Gene because he wanted to stress that evolution does not especially promote the ‘welfare’ of species or individual organisms. But, as he also explained, it does not promote the ‘welfare’ of genes either: it adapts them not for survival in larger numbers, nor indeed for survival at all, but only for spreading through the population at the expense of rival genes, particularly slight variants of themselves.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 105 | location 1605-1610 | Added on Wednesday, 3 May 2023 02:50:00
+
+The most general way of stating the central assertion of the neo-Darwinian theory of evolution is that a population of replicators subject to variation (for instance by imperfect copying) will be taken over by those variants that are better than their rivals at causing themselves to be replicated. This is a surprisingly deep truth which is commonly criticized either for being too obvious to be worth stating or for being false. The reason, I think, is that, although it is self-evidently true, it is not self-evidently the explanation of specific adaptations. Our intuition prefers explanations in terms of function or purpose: what does a gene do for its holder, or for its species? But we have just seen that the genes generally do not optimize such functionality.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 106 | location 1620-1627 | Added on Wednesday, 3 May 2023 02:51:52
+
+Explanatory theories evolve through a more complicated mechanism. Accidental errors in transmission and memory still play a role, but a much smaller one. That is because good explanations are hard to vary even without being tested, and hence random errors in the transmission of a good explanation are easier for the receiver to detect and correct. The most important source of variation in explanatory theories is creativity. For instance, when people are trying to understand an idea that they hear from others, they typically understand it to mean what makes most sense to them, or what they are most expecting to hear, or what they fear to hear, and so on. Those meanings are conjectured by the listener or reader, and may differ from what the speaker or writer intended. In addition, people often try to improve explanations even when they have received them accurately: they make creative amendments, spurred by their own criticism. If they then pass the explanation on to others, they usually try to pass on what they consider to be the improved version.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 116 | location 1779-1784 | Added on Wednesday, 3 May 2023 03:07:53
+
+Anthropic explanations are attempting to account for purposeful structure (such as the fine-tuned constants) in terms of a single act of selection. That is unlike evolution, and it cannot work. The solution of the fine-tuning puzzle is going to be in terms of an explanation that will specifically explain what we observe. It will be, as Wheeler put it, ‘an idea so simple . . . that . . . we will all say to each other, how could it have been otherwise?’ In other words, the problem has been not that the world is so complex that we cannot understand why it looks as it does, but it is that it is so simple that we cannot yet understand it. But this will be noticeable only with hindsight.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 118 | location 1796-1799 | Added on Wednesday, 3 May 2023 03:11:23
+
+The puzzle of understanding what living things are and how they came about has given rise to a strange history of misconceptions, near-misses and ironies. The last of the ironies is that the neo-Darwinian theory, like the Popperian theory of knowledge, really does describe creation, while their rivals, beginning with creationism, never could.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 123 | location 1876-1881 | Added on Wednesday, 3 May 2023 03:18:18
+
+Even in physics, some of the most fundamental explanations, and the predictions that they make, are not reductive. For instance, the second law of thermodynamics says that high-level physical processes tend towards ever greater disorder. A scrambled egg never becomes unscrambled by the whisk, and never extracts energy from the pan to propel itself upwards into the shell, which never seamlessly reseals itself. Yet, if you could somehow make a video of the scrambling process with enough resolution to see the individual molecules, and play it backwards, and examine any part of it at that scale, you would see nothing but molecules moving and colliding in strict obedience to the low-level laws of physics. It is not yet known how, or whether, the second law of thermodynamics can be derived from a simple statement about individual atoms.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 124 | location 1895-1900 | Added on Wednesday, 3 May 2023 03:21:08
+
+The microscopic consequences of that might well seem to be fine-tuned. One candidate is the principle of the universality of computation, which I shall discuss in the next chapter. Another is the principle of testability, for, in a world in which the laws of physics do not permit the existence of testers, they also forbid themselves to be tested. However, in their current form such principles, regarded as laws of physics, are anthropocentric and arbitrary – and would therefore be bad explanations. But perhaps there are deeper versions, to which they are approximations, which are good explanations, well integrated with those of microscopic physics like the second law of thermodynamics is.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 124 | location 1894-1900 | Added on Wednesday, 3 May 2023 03:21:12
+
+Thus, one possible way that the fine-tuning problem might eventually be solved would be if some high-level explanations turned out to be exact laws of nature. The microscopic consequences of that might well seem to be fine-tuned. One candidate is the principle of the universality of computation, which I shall discuss in the next chapter. Another is the principle of testability, for, in a world in which the laws of physics do not permit the existence of testers, they also forbid themselves to be tested. However, in their current form such principles, regarded as laws of physics, are anthropocentric and arbitrary – and would therefore be bad explanations. But perhaps there are deeper versions, to which they are approximations, which are good explanations, well integrated with those of microscopic physics like the second law of thermodynamics is.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 130 | location 1990-1995 | Added on Wednesday, 3 May 2023 03:33:42
+
+At that point, the reductive (to high-level physics) explanation would be, in summary, ‘That domino did not fall because none of the patterns of motion initiated by knocking over the “on switch” ever include it.’ But we knew that already. We can reach that conclusion – as we just have – without going through that laborious process. And it is undeniably true. But it is not the explanation we were looking for because it is addressing a different question – predictive rather than explanatory – namely, if the first domino falls, will the output domino ever fall? And it is asking at the wrong level of emergence. What we asked was: why does it not fall?
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 132 | location 2023-2026 | Added on Wednesday, 3 May 2023 03:36:33
+
+There is no inconsistency in having multiple explanations of the same phenomenon, at different levels of emergence. Regarding microphysical explanations as more fundamental than emergent ones is arbitrary and fallacious. There is no escape from Hofstadter’s 641 argument, and no reason to want one. The world may or may not be as we wish it to be, and to reject good explanations on that account is to imprison oneself in parochial error.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 136 | location 2083-2083 | Added on Wednesday, 3 May 2023 03:44:58
+
+factual theories, and morally wrong values with false theories.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 136 | location 2076-2088 | Added on Wednesday, 3 May 2023 03:46:19
+
+Quite generally, in order to understand the moral landscape in terms of a given set of values, one needs to understand some facts as being a certain way too. And the converse is also true: for example, as the philosopher Jacob Bronowski pointed out, success at making factual, scientific discoveries entails a commitment to all sorts of values that are necessary for making progress. The individual scientist has to value truth, and good explanations, and be open to ideas and to change. The scientific community, and to some extent the civilization as a whole, has to value tolerance, integrity and openness of debate. We should not be surprised at these connections. The truth has structural unity as well as logical consistency, and I guess that no true explanation is entirely disconnected from any other. Since the universe is explicable, it must be that morally right values are connected in this way with true factual theories, and morally wrong values with false theories. Moral philosophy is basically about the problem of what to do next – and, more generally, what sort of life to lead, and what sort of world to want. Some philosophers confine the term ‘moral’ to problems about how one should treat other people. But such problems are continuous with problems of individuals choosing what sort of life to lead, which is why I adopt the more inclusive definition. Terminology aside, if you were suddenly the last human on Earth, you would be wondering what sort of life to want. Deciding ‘I should do whatever pleases me most’ would give you very little clue, because what pleases you depends on your moral judgement of what constitutes a good life, not vice versa.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 137 | location 2095-2097 | Added on Wednesday, 3 May 2023 03:46:41
+
+So there is no avoiding what-to-do-next problems, and, since the distinction between right and wrong appears in our best explanations that address such problems, we must regard that distinction as real. In other words, there is an objective difference between right and wrong: those are real attributes of objectives and behaviours.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 139 | location 2126-2128 | Added on Wednesday, 3 May 2023 03:49:09
+
+Reductionism and holism are both mistakes. In reality, explanations do not form a hierarchy with the lowest level being the most fundamental. Rather, explanations at any level of emergence can be fundamental. Abstract entities are real, and can play a role in causing physical phenomena. Causation is itself such an abstraction.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 150 | location 2287-2292 | Added on Wednesday, 3 May 2023 04:09:38
+
+The largest benefits of any universality, beyond whatever parochial problem it is intended to solve, come from its being useful for further innovation. And innovation is unpredictable. So, to appreciate universality at the time of its discovery, one must either value abstract knowledge for its own sake or expect it to yield unforeseeable benefits. In a society that rarely experienced change, both those attitudes would be quite unnatural. But that was reversed with the Enlightenment, whose quintessential idea is, as I have said, that progress is both desirable and attainable. And so, therefore, is universality.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 154 | location 2354-2357 | Added on Wednesday, 3 May 2023 18:06:35
+
+So the computer revolution would have happened a century earlier than it did. Because of the technologies of telegraphy and printing that were being developed concurrently, an internet revolution might well have followed. The science-fiction authors William Gibson and Bruce Sterling, in their novel The Difference Engine, have given an exciting account of what that might have been like. The
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 155 | location 2369-2374 | Added on Wednesday, 3 May 2023 18:07:55
+
+for centuries, some people have tried to explain the mind in mechanical terms, using similes and metaphors based on the most complex machines of the day. First the brain was supposed to be like an immensely complicated set of gears and levers. Then it was hydraulic pipes, then steam engines, then telephone exchanges – and, now that computers are our most impressive technology, brains are said to be computers. But this is still no more than a metaphor, says Searle, and there is no more reason to expect the brain to be a computer than a steam engine. But there is. A steam engine is not a universal simulator. But a computer is, so expecting it to be able to do whatever neurons can is not a metaphor: it is a known and proven property of the laws of physics as best we know them.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 157 | location 2395-2398 | Added on Wednesday, 3 May 2023 18:10:09
+
+From then on, designers of any information-processing device could start with a microprocessor and then customize it – program it – to perform the specific tasks needed for that device. Today, your washing machine is almost certainly controlled by a computer that could be programmed to do astrophysics or word processing instead, if it were given suitable input–output devices and enough memory to hold the necessary data.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 157 | location 2397-2401 | Added on Wednesday, 3 May 2023 18:10:22
+
+Today, your washing machine is almost certainly controlled by a computer that could be programmed to do astrophysics or word processing instead, if it were given suitable input–output devices and enough memory to hold the necessary data. It is a remarkable fact that, in that sense (that is to say, ignoring issues of speed, memory capacity and input–output devices), the human ‘computers’ of old, the steam-powered Analytical Engine with its literal bells and whistles, the room-sized vacuum-tube computers of the Second World War, and present-day supercomputers all have an identical repertoire of computations.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 162 | location 2477-2483 | Added on Wednesday, 3 May 2023 18:39:18
+
+That means that, considered as a language for specifying organisms, the genetic code has displayed phenomenal reach. It evolved only to specify organisms with no nervous systems, no ability to move or exert forces, no internal organs and no sense organs, whose lifestyle consisted of little more than synthesizing their own structural constituents and then dividing in two. And yet the same language today specifies the hardware and software for countless multicellular behaviours that had no close analogue in those organisms, such as running and flying and breathing and mating and recognizing predators and prey. It also specifies engineering structures such as wings and teeth, and nanotechnology such as immune systems, and even a brain that is capable of explaining quasars, designing other organisms from scratch, and wondering why it exists.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 171 | location 2615-2619 | Added on Wednesday, 3 May 2023 18:57:20
+
+You can also predict that when you first see a clear daytime sky after being cured you will experience a similar quale to that of seeing the blue card. But there is one thing that neither you nor anyone else could predict about the outcome of this experiment, and that is: what blue will look like. Qualia are currently neither describable nor predictable – a unique property that should make them deeply problematic to anyone with a scientific world view (though, in the event, it seems to be mainly philosophers who worry about it).
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 171 | location 2614-2619 | Added on Wednesday, 3 May 2023 18:57:32
+
+You can predict that you will call it ‘blue’, because you already know what the colour of the card is called (and can already check which colour it is with a spectrophotometer). You can also predict that when you first see a clear daytime sky after being cured you will experience a similar quale to that of seeing the blue card. But there is one thing that neither you nor anyone else could predict about the outcome of this experiment, and that is: what blue will look like. Qualia are currently neither describable nor predictable – a unique property that should make them deeply problematic to anyone with a scientific world view (though, in the event, it seems to be mainly philosophers who worry about it).
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 176 | location 2685-2688 | Added on Thursday, 4 May 2023 01:18:44
+
+In any case, we should expect AI to be achieved in a jump to universality, starting from something much less powerful. In contrast, the ability to imitate a human imperfectly or in specialized functions is not a form of universality. It can exist in degrees. Hence, even if chatbots did at some point start becoming much better at imitating humans (or at fooling humans), that would still not be a path to AI. Becoming better at pretending to think is not the same as coming closer to being able to think.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 181 | location 2774-2780 | Added on Thursday, 4 May 2023 01:27:11
+
+I think we have to face the fact, both with artificial evolution and with AI, that these are hard problems. There are serious unknowns in how those phenomena were achieved in nature. Trying to achieve them artificially without ever discovering those unknowns was perhaps worth trying. But it should be no surprise that it has failed. Specifically, we do not know why the DNA code, which evolved to describe bacteria, has enough reach to describe dinosaurs and humans. And, although it seems obvious that an AI will have qualia and consciousness, we cannot explain those things. So long as we cannot explain them, how can we expect to simulate them in a computer program? Or why should they emerge effortlessly from projects designed to achieve something else? But my guess is that when we do understand them, artificially implementing evolution and intelligence and its constellation of associated attributes will then be no great effort.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 191 | location 2921-2923 | Added on Thursday, 4 May 2023 05:41:23
+
+All the trash in the hotel has disappeared from the universe. It is nowhere. No one has put it ‘nowhere’: every guest has merely moved some of it into another room. The ‘nowhere’ where all that trash has gone is called, in physics, a singularity. Singularities may well happen in reality, inside black holes and elsewhere. But I digress: at the moment, we are still discussing mathematics, not physics.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 193 | location 2948-2954 | Added on Thursday, 4 May 2023 05:43:18
+
+What if, one day, a puppy did just arrive at room 1, having been passed down through all the rooms? That is not logically impossible: it would merely lack an explanation. In physics, the ‘nowhere’ from which such a puppy would have come is called a ‘naked singularity’. Naked singularities appear in some speculative theories in physics, but such theories are rightly criticized on the grounds that they cannot make predictions. As Hawking once put it, ‘Television sets could come out [of a naked singularity].’ It would be different if there were a law of nature determining what comes out – for in that case there would be no infinite regress and the singularity would not be ‘naked’. The Big Bang may have been a singularity of that relatively benign type.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 193 | location 2959-2960 | Added on Thursday, 4 May 2023 05:44:34
+
+Every room is at the beginning of infinity. That is one of the attributes of the unbounded growth of knowledge too: we are only just scratching the surface, and shall never be doing anything else.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 196 | location 3001-3004 | Added on Thursday, 4 May 2023 05:50:07
+
+Scientific explanations cannot possibly depend on how we choose to label the entities referred to in the theory. So anthropic reasoning, by itself, cannot make predictions. Which is why I said in Chapter 4 that it cannot explain the fine-tuning of the constants of physics.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 200 | location 3054-3056 | Added on Thursday, 4 May 2023 05:55:24
+
+intuitive answer would be anthropocentric: something is definitely finite if it could in principle be encompassed by a human experience. But what does it mean to ‘experience’ something? Was Cantor experiencing infinity when he proved theorems about it? Or was he experiencing only symbols? But we only ever experience symbols.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 201 | location 3081-3085 | Added on Thursday, 4 May 2023 06:00:52
+
+What Achilles can or cannot do is not deducible from mathematics. It depends only on what the relevant laws of physics say. If they say that he will overtake the tortoise in a given time, then overtake it he will. If that happens to involve an infinite number of steps of the form ‘move to a particular location’, then an infinite number of such steps will happen. If it involves his passing through an uncountable infinity of points, then that is what he does. But nothing physically infinite has happened.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 205 | location 3138-3142 | Added on Thursday, 4 May 2023 06:18:59
+
+So, there is nothing mathematically special about the undecidable questions, the non-computable functions, the unprovable propositions. They are distinguished by physics only. Different physical laws would make different things infinite, different things computable, different truths – both mathematical and scientific – knowable. It is only the laws of physics that determine which abstract entities and relationships are modelled by physical objects such as mathematicians’ brains, computers and sheets of paper.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 207 | location 3166-3171 | Added on Thursday, 4 May 2023 06:22:59
+
+We would be able to establish the truth or falsity of Turing-undecidable propositions, but that ‘establishing’ would not be proving, because then our knowledge of whether the proposition was true or false would for ever depend on our knowledge of what the laws of physics are. If we discovered one day that the real laws of physics were different, we might have to change our minds about the proof too, and its conclusion. And so it would not be a real proof: real proof is independent of physics. Here is that same misconception again (as well as some authority-seeking justificationism). Our knowledge of whether a proposition is true or false always depends on knowledge about how physical objects behave.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 207 | location 3166-3177 | Added on Thursday, 4 May 2023 06:23:32
+
+We would be able to establish the truth or falsity of Turing-undecidable propositions, but that ‘establishing’ would not be proving, because then our knowledge of whether the proposition was true or false would for ever depend on our knowledge of what the laws of physics are. If we discovered one day that the real laws of physics were different, we might have to change our minds about the proof too, and its conclusion. And so it would not be a real proof: real proof is independent of physics. Here is that same misconception again (as well as some authority-seeking justificationism). Our knowledge of whether a proposition is true or false always depends on knowledge about how physical objects behave. If we changed our minds about what a computer, or a brain, has been doing – for instance, if we decided that our own memory was faulty about which steps we had checked in a proof – then we would be forced to change our opinion about whether we had proved something or not. It would be no different if we changed our minds about what the laws of physics made the computer do. Whether a mathematical proposition is true or not is indeed independent of physics. But the proof of such a proposition is a matter of physics only. There is no such thing as abstractly proving something, just as there is no such thing as abstractly knowing something. Mathematical truth is absolutely necessary and transcendent, but all knowledge is generated by physical processes, and its scope and limitations are conditioned by the laws of nature.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 208 | location 3185-3192 | Added on Thursday, 4 May 2023 06:25:18
+
+Consequently, the reliability of our knowledge of mathematics remains for ever subsidiary to that of our knowledge of physical reality. Every mathematical proof depends absolutely for its validity on our being right about the rules that govern the behaviour of some physical objects, like computers, or ink and paper, or brains. So, contrary to what Hilbert thought, and contrary to what most mathematicians since antiquity have believed and believe to this day, proof theory can never be made into a branch of mathematics. Proof theory is a science: specifically, it is computer science. The whole motivation for seeking a perfectly secure foundation for mathematics was mistaken. It was a form of justificationism. Mathematics is characterized by its use of proofs in the same way that science is characterized by its use of experimental testing; in neither case is that the object of the exercise. The object of mathematics is to understand – to explain – abstract entities.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 209 | location 3202-3205 | Added on Thursday, 4 May 2023 06:29:04
+
+So there is something special – infinitely special, it seems – about the laws of physics as we actually find them, something exceptionally computation-friendly, prediction-friendly and explanation-friendly. The physicist Eugene Wigner called this ‘the unreasonable effectiveness of mathematics in the natural sciences’. For the reasons I have given, anthropic arguments alone cannot explain it. Something else will.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 213 | location 3261-3263 | Added on Thursday, 4 May 2023 06:42:06
+
+At present we do not know why the laws of physics seem fine-tuned; we do not know why various forms of universality exist (though we do know of many connections between them); we do not know why the world is explicable. But eventually we shall. And when we do, there will be infinitely more left to explain.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 214 | location 3272-3273 | Added on Thursday, 4 May 2023 06:43:34
+
+Infinite (mathematical)   A set is infinite if it can be placed in one-to-one correspondence with part of itself.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 214 | location 3277-3278 | Added on Thursday, 4 May 2023 06:43:59
+
+Singularity   A situation in which something physical becomes unboundedly large, while remaining everywhere finite.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 216 | location 3301-3304 | Added on Thursday, 4 May 2023 06:54:40
+
+The possibilities that lie in the future are infinite. When I say ‘It is our duty to remain optimists,’ this includes not only the openness of the future but also that which all of us contribute to it by everything we do: we are all responsible for what the future holds in store. Thus it is our duty, not to prophesy evil but, rather, to fight for a better world. Karl Popper, The Myth of the Framework
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 218 | location 3332-3334 | Added on Thursday, 4 May 2023 06:58:21
+
+No good explanation can predict the outcome, or the probability of an outcome, of a phenomenon whose course is going to be significantly affected by the creation of new knowledge. This is a fundamental limitation on the reach of scientific prediction, and, when planning for the future, it is vital to come to terms with
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 224 | location 3428-3433 | Added on Thursday, 4 May 2023 07:08:07
+
+So essentially the only resource of use to it in our solar system would be the sheer mass of matter in the sun. But matter is available in every star. Perhaps it is collecting entire stars wholesale in order to make a giant black hole as part of some titanic engineering project. But in that case it would cost it virtually nothing to omit inhabited solar systems (which are presumably a small minority, otherwise it is pointless for us to hide in any case); so would it casually wipe out billions of people? Would we seem like insects to it? This can seem plausible only if one forgets that there can be only one type of person: universal explainers and constructors. The idea that there could be beings that are to us as we are to animals is a belief in the supernatural.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 224 | location 3428-3437 | Added on Thursday, 4 May 2023 07:08:46
+
+So essentially the only resource of use to it in our solar system would be the sheer mass of matter in the sun. But matter is available in every star. Perhaps it is collecting entire stars wholesale in order to make a giant black hole as part of some titanic engineering project. But in that case it would cost it virtually nothing to omit inhabited solar systems (which are presumably a small minority, otherwise it is pointless for us to hide in any case); so would it casually wipe out billions of people? Would we seem like insects to it? This can seem plausible only if one forgets that there can be only one type of person: universal explainers and constructors. The idea that there could be beings that are to us as we are to animals is a belief in the supernatural. Moreover, there is only one way of making progress: conjecture and criticism. And the only moral values that permit sustained progress are the objective values that the Enlightenment has begun to discover. No doubt the extraterrestrials’ morality is different from ours; but that will not be because it resembles that of the conquistadors. Nor would we be in serious danger of culture shock from contact with an advanced civilization: it will know how to educate its own children (or AIs), so it will know how to educate us – and, in particular, to teach us how to use its computers.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 229 | location 3503-3512 | Added on Thursday, 4 May 2023 07:16:00
+
+A probability of one in 250,000 of such an impact in any given year means that a typical person on Earth would have a far larger chance of dying of an asteroid impact than in an aeroplane crash. And the next such object to strike us is already out there at this moment, speeding towards us with nothing to stop it except human knowledge. Civilization is vulnerable to several other known types of disaster with similar levels of risk. For instance, ice ages occur more frequently than that, and ‘mini ice ages’ much more frequently – and some climatologists believe that they can happen with only a few years’ warning. A ‘super-volcano’ such as the one lurking under Yellowstone National Park could blot out the sun for years at a time. If it happened tomorrow our species could survive, by growing food using artificial light, and civilization could recover. But many would die, and the suffering would be so tremendous that such events should merit almost as much preventative effort as an extinction. We do not know the probability of a spontaneously occurring incurable plague, but we may guess that it is unacceptably high, since pandemics such as the Black Death in the fourteenth century have already shown us the sort of thing that can happen on a timescale of centuries. Should any of those catastrophes loom, we now have at least a chance of creating the knowledge required to survive, in time.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 232 | location 3553-3557 | Added on Thursday, 4 May 2023 17:54:44
+
+Consider also the revolutionary utopians, who typically achieve only destruction and stagnation. Though they are blind optimists, what defines them as utopians is their pessimism that their supposed utopia, or their violent proposals for achieving and entrenching it, could ever be improved upon. Additionally, they are revolutionaries in the first place because they are pessimistic that many other people can be persuaded of the final truth that they think they know.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 237 | location 3634-3640 | Added on Thursday, 4 May 2023 18:03:26
+
+celebrated example of an optimistic approach to the unknown, ‘We choose to go to the moon. We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard.’ Kennedy did not mean that the moon project, being hard, was unlikely to succeed. On the contrary, he believed that it would. What he meant by a hard task was one that depends on facing the unknown. And the intuitive fact to which he was appealing was that although such hardness is always a negative factor when choosing among means to pursue an objective, when choosing the objective itself it can be a positive one, because we want to engage with projects that will involve creating new knowledge. And an optimist expects the creation of knowledge to constitute progress – including its unforeseeable consequences.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 240 | location 3679-3682 | Added on Thursday, 4 May 2023 18:06:15
+
+In education, where our rivals from their very cradles by a painful discipline seek after manliness, in Athens we live exactly as we please, and yet are just as ready to encounter every legitimate danger. A pessimistic civilization prides itself on its children’s conformity to the proper patterns of behaviour, and bemoans every real or imagined novelty.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 244 | location 3730-3736 | Added on Thursday, 4 May 2023 18:10:59
+
+The inhabitants of Florence in 1494 or Athens in 404 BCE could be forgiven for concluding that optimism just isn’t factually true. For they knew nothing of such things as the reach of explanations or the power of science or even laws of nature as we understand them, let alone the moral and technological progress that was to follow when the Enlightenment got under way. At the moment of defeat, it must have seemed at least plausible to the formerly optimistic Athenians that the Spartans might be right, and to the formerly optimistic Florentines that Savonarola might be. Like every other destruction of optimism, whether in a whole civilization or in a single individual, these must have been unspeakable catastrophes for those who had dared to expect progress. But we should feel more than sympathy for those people. We should take it personally. For if any of those earlier experiments in optimism had succeeded, our species would be exploring the stars by now, and you and I would be immortal.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 266 | location 4068-4072 | Added on Thursday, 4 May 2023 20:28:11
+
+SOCRATES: You mean that we first guess what is there, and then – what? – we test our guesses against the input from our senses? HERMES: Yes. SOCRATES: I see. And then we hone our guesses, and then fashion the best ones into a sort of waking dream of reality.* HERMES: Yes. A waking dream that corresponds to reality. But there is more. It is a dream of which you then gain control. You do that by controlling the corresponding aspects of the external reality.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 280 | location 4293-4299 | Added on Thursday, 4 May 2023 20:45:49
+
+Socrates and his circle were among the foremost contributors to the ‘Golden Age of Athens’, which should have become a beginning of infinity but did not. And also because one thing that we do know about the ancient Greeks is that the philosophical problems they considered important have dominated Western philosophy ever since: How is knowledge obtained? How can we distinguish between true and false, right and wrong, reason and unreason? Which sorts of knowledge (moral, empirical, theological, mathematical, justified . . .) are possible, and which are mere chimeras? And so on. And therefore, although the theory of knowledge presented in the dialogue is largely that of the twentieth-century philosopher Karl Popper, together with some addenda of my own, I guess that Socrates would have understood and liked it. In some universes that were very like ours at the time, he thought of it himself.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 282 | location 4321-4329 | Added on Thursday, 4 May 2023 20:48:52
+
+Why? The immediate reason is that the original sources of scientific theories are almost never good sources. How could they be? All subsequent expositions are intended to be improvements on them, and some succeed, and improvements are cumulative. And there is a deeper reason. The originators of a fundamental new theory initially share many of the misconceptions of previous theories. They need to develop an understanding of how and why those theories are flawed, and how the new theory explains everything that they explained. But most people who subsequently learn the new theory have quite different concerns. Often they just want to take the theory for granted and use it to make predictions, or to understand some complex phenomenon in combination with other theories. Or they may want to understand nuances of it that have nothing to do with why it is superior to the old theories. Or they may want to improve it. But what they no longer care about is tracking down and definitively meeting every last objection that would naturally be made by someone thinking in terms of older, superseded theories. There is rarely any reason for scientists to address the obsolete problem-situations that motivated the great scientists of the past.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 284 | location 4345-4346 | Added on Thursday, 4 May 2023 20:50:24
+
+Slowly, and with many setbacks, the same is becoming true in non-scientific fields. The way to converge with each other is to converge upon the truth.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 291 | location 4450-4451 | Added on Friday, 5 May 2023 03:23:17
+
+In real physics, even space is a physical object, capable of warping and affecting matter and being affected by it.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 302 | location 4630-4641 | Added on Friday, 5 May 2023 18:56:28
+
+These two opposite intuitions reflect the ancient dichotomy between the discrete and the continuous. The above argument – that everything in the sphere of differentiation must become different – depends on the reality of extremely small physical changes – changes that would be many orders of magnitude too small to be measurable. The existence of such changes follows inexorably from the explanations of classical physics, because in classical physics most fundamental quantities (such as energy) are continuously variable. The opposing intuition comes from thinking about the world in terms of information processing, and hence in terms of discrete variables such as the contents of people’s memories. Quantum theory adjudicates this conflict in favour of the discrete. For a typical physical quantity, there is a smallest possible change that it can undergo in a given situation. For instance, there is a smallest possible amount of energy that can be transferred from radiation to any particular atom. The atom cannot absorb any less than that amount, which is called a ‘quantum’ of energy. Since this was the first distinctive feature of quantum physics to be discovered, it gave its name to the field. Let us incorporate it into our fictional physics as well. Hence it is not the case that all the atoms on the surface of the planet are changed by the arrival of the radio message. In reality, the typical response of a large physical object to very small influences is that most of its atoms remain strictly unchanged, while, to obey the conservation laws, a few exhibit a discrete, relatively large change of one quantum.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 304 | location 4649-4650 | Added on Friday, 5 May 2023 18:57:15
+
+Indeed, knowledge can aim itself at a target, travel vast distances
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 304 | location 4649-4650 | Added on Friday, 5 May 2023 18:57:20
+
+Indeed, knowledge can aim itself at a target, travel vast distances having scarcely any effect, and then utterly transform the destination.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 304 | location 4647-4650 | Added on Friday, 5 May 2023 18:57:28
+
+Even the most violent of quasar jets, when viewed from a neighbouring galaxy, would be little more than an abstract painting in the sky. There is only one known phenomenon which, if it ever occurred, would have effects that did not fall off with distance, and that is the creation of a certain type of knowledge, namely a beginning of infinity. Indeed, knowledge can aim itself at a target, travel vast distances having scarcely any effect, and then utterly transform the destination.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 309 | location 4730-4735 | Added on Friday, 5 May 2023 19:08:08
+
+The ‘naive’ audience’s mistake is a form of parochialism: they observe a phenomenon – people phoning in because their watches stopped – but they are failing to understand it as part of a wider phenomenon, most of which they do not observe. Though the unobserved parts of that wider phenomenon have in no way affected what we, the viewers, observe, they are essential to its explanation. Similarly, common sense and classical physics contain the parochial error that only one history exists. This error, built into our language and conceptual framework, makes it sound odd to say that an event can be in one sense extremely unlikely and in another certain to happen. But there is nothing odd about it in reality.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 311 | location 4758-4767 | Added on Wednesday, 31 May 2023 06:12:48
+
+Thus the information in the fictional multiverse flows along a branching tree, whose branches – histories – have different thicknesses (measures) and never rejoin once they have separated. Each behaves exactly as if the others did not exist. If that were the whole story, that multiverse’s imaginary laws of physics would still be fatally flawed as explanations in the same way that they have been all along: there would be no difference between their predictions and those of much more straightforward laws saying that there is only one universe – one history – in which the transporter randomly introduces a change in the objects that it teleports. Under those laws, instead of branching into two autonomous histories on such occasions, the single history randomly does or does not undergo such a change. Thus the entire stupendously complicated multiverse that we have imagined – with its multiplicity of entities including people walking through each other and its bizarre occurrences and its entanglement information – would collapse into nothing, like the galaxy in Chapter 2 that became an emulsion flaw. The multiverse explanation of the same events would be a bad explanation, and so the world would be inexplicable to the inhabitants if it were true.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 314 | location 4808-4813 | Added on Wednesday, 31 May 2023 06:17:01
+
+When two or more values of a physical variable have differently affected something in the rest of the world, knock-on effects typically continue indefinitely, as I have described, with a wave of differentiation entangling more and more objects. If the differential effects can all be undone, then interference between those original values becomes possible again; but the laws of quantum mechanics dictate that undoing them requires fine control of all the affected objects, and that rapidly becomes infeasible. The process of its becoming infeasible is known as decoherence. In most situations, decoherence is very rapid, which is why splitting typically predominates over interference, and why interference – though ubiquitous on microscopic scales – is quite hard to demonstrate unambiguously in the laboratory.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 314 | location 4807-4813 | Added on Wednesday, 31 May 2023 06:17:05
+
+In entangled objects, further splitting happens instead of interference. When two or more values of a physical variable have differently affected something in the rest of the world, knock-on effects typically continue indefinitely, as I have described, with a wave of differentiation entangling more and more objects. If the differential effects can all be undone, then interference between those original values becomes possible again; but the laws of quantum mechanics dictate that undoing them requires fine control of all the affected objects, and that rapidly becomes infeasible. The process of its becoming infeasible is known as decoherence. In most situations, decoherence is very rapid, which is why splitting typically predominates over interference, and why interference – though ubiquitous on microscopic scales – is quite hard to demonstrate unambiguously in the laboratory.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 317 | location 4858-4865 | Added on Wednesday, 31 May 2023 06:21:40
+
+For the same reason, there is no such thing as the speed of one instance of the particle at a given location. Speed is defined as distance travelled divided by time taken, but that is not meaningful in situations where there is no such thing as a particular instance of the particle over time. Instead, a collection of fungible instances of a particle in general have several speeds – meaning that in general they will do different things an instant later. (This is another instance of ‘diversity within fungibility’.) Not only can a fungible collection with the same position have different speeds, a fungible group with the same speed can have different positions. Furthermore, it follows from the laws of quantum physics that, for any fungible collection of instances of a physical object, some of their attributes must be diverse. This is known as the ‘Heisenberg uncertainty principle’, after the physicist Werner Heisenberg, who deduced the earliest version from quantum theory.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 317 | location 4857-4865 | Added on Wednesday, 31 May 2023 06:21:57
+
+at the end of the collision some of the instances of each atom have become fungible with what was originally a different atom. For the same reason, there is no such thing as the speed of one instance of the particle at a given location. Speed is defined as distance travelled divided by time taken, but that is not meaningful in situations where there is no such thing as a particular instance of the particle over time. Instead, a collection of fungible instances of a particle in general have several speeds – meaning that in general they will do different things an instant later. (This is another instance of ‘diversity within fungibility’.) Not only can a fungible collection with the same position have different speeds, a fungible group with the same speed can have different positions. Furthermore, it follows from the laws of quantum physics that, for any fungible collection of instances of a physical object, some of their attributes must be diverse. This is known as the ‘Heisenberg uncertainty principle’, after the physicist Werner Heisenberg, who deduced the earliest version from quantum theory.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 317 | location 4857-4865 | Added on Wednesday, 31 May 2023 06:22:04
+
+at the end of the collision some of the instances of each atom have become fungible with what was originally a different atom. For the same reason, there is no such thing as the speed of one instance of the particle at a given location. Speed is defined as distance travelled divided by time taken, but that is not meaningful in situations where there is no such thing as a particular instance of the particle over time. Instead, a collection of fungible instances of a particle in general have several speeds – meaning that in general they will do different things an instant later. (This is another instance of ‘diversity within fungibility’.) Not only can a fungible collection with the same position have different speeds, a fungible group with the same speed can have different positions. Furthermore, it follows from the laws of quantum physics that, for any fungible collection of instances of a physical object, some of their attributes must be diverse. This is known as the ‘Heisenberg uncertainty principle’, after the physicist Werner Heisenberg, who deduced the earliest version from quantum theory.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 318 | location 4874-4890 | Added on Wednesday, 31 May 2023 06:25:20
+
+put a proton into the middle of that gradually spreading cloud of instances of a single electron. The proton has a positive charge, which attracts the negatively charged electron. As a result, the cloud stops spreading when its size is such that its tendency to spread outwards due to its uncertainty-principle diversity is exactly balanced by its attraction to the proton. The resulting structure is called an atom of hydrogen. Historically, this explanation of what atoms are was one of the first triumphs of quantum theory, for atoms could not exist at all according to classical physics. An atom consists of a positively charged nucleus surrounded by negatively charged electrons. But positive and negative charges attract each other and, if unrestrained, accelerate towards each other, emitting energy in the form of electromagnetic radiation as they go. So it used to be a mystery why the electrons do not ‘fall’ on to the nucleus in a flash of radiation. Neither the nucleus nor the electrons individually have more than one ten-thousandth of the diameter of the atom, so what keeps them so far apart? And what makes atoms stable at that size? In non-technical accounts, the structure of atoms is sometimes explained by analogy with the solar system: one imagines electrons in orbit around the nucleus like planets around the sun. But that does not match the reality. For one thing, gravitationally bound objects do slowly spiral in, emitting gravitational radiation (the process has been observed for binary neutron stars), and the corresponding electromagnetic process in an atom would be over in a fraction of a second. For another, the existence of solid matter, which consists of atoms packed closely together, is evidence that atoms cannot easily penetrate each other, yet solar systems certainly could. Furthermore, it turns out that, in the hydrogen atom, the electron in its lowest-energy state is not orbiting at all but, as I said, just sitting there like an ink blot – its uncertainty-principle tendency to spread exactly balanced by the electrostatic force. In this way, the phenomena of interference and diversity within fungibility are integral to the structure and stability of all static objects, including all solid bodies, just as they are integral to all motion.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 320 | location 4898-4904 | Added on Wednesday, 31 May 2023 06:27:42
+
+Thanks to the strong internal interference that it is continuously undergoing, a typical electron is an irreducibly multiversal object, and not a collection of parallel-universe or parallel-histories objects. That is to say, it has multiple positions and multiple speeds without being divisible into autonomous sub-entities each of which has one speed and one position. Even different electrons do not have completely separate identities. So the reality is an electron field throughout the whole of space, and disturbances spread through this field as waves, at the speed of light or below. This is what gave rise to the often-quoted misconception among the pioneers of quantum theory that electrons (and likewise all other particles) are ‘particles and waves at the same time’. There is a field (or ‘waves’) in the multiverse for every individual particle that we observe in a particular universe.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 322 | location 4927-4933 | Added on Wednesday, 31 May 2023 06:31:05
+
+As I explained, interference almost always happens either very soon after splitting or not at all. That is why the larger and more complex an object or process is, the less its gross behaviour is affected by interference. At that ‘coarse-grained’ level of emergence, events in the multiverse consist of autonomous histories, with each coarse-grained history consisting of a swathe of many histories differing only in microscopic details but affecting each other through interference. Spheres of differentiation tend to grow at nearly the speed of light, so, on the scale of everyday life and above, those coarse-grained histories can justly be called ‘universes’ in the ordinary sense of the word. Each of them somewhat resembles the universe of classical physics. And they can usefully be called ‘parallel’ because they are nearly autonomous. To the inhabitants, each looks very like a single-universe world.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 323 | location 4940-4949 | Added on Wednesday, 31 May 2023 06:32:51
+
+In each such history, there is an autonomous instance of the cosmic-ray particle, which will dissipate its energy in creating a ‘cosmic-ray shower’ of electrically charged particles. Thus, in different histories, such a shower will occur at different locations. In some, that shower will provide a conducting path down which a lightning bolt will travel. Every atom on the surface of the Earth will be struck by such lightning in some history. In other histories, one of those cosmic-ray particles will strike a human cell, damaging some already damaged DNA in such a way as to make the cell cancerous. Some non-negligible proportion of all cancers are caused in this way. As a result, there exist histories in which any given person, alive in our history at any time, is killed soon afterwards by cancer. There exist other histories in which the course of a battle, or a war, is changed by such an event, or by a lightning bolt at exactly the right place and time, or by any of countless other unlikely, ‘random’ events. This makes it highly plausible that there exist histories in which events have played out more or less as in alternative-history stories such as Fatherland and Roma Eterna – or in which events in your own life played out very differently, for better or worse.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 324 | location 4955-4960 | Added on Wednesday, 31 May 2023 06:35:54
+
+Imagine a single photon from a starship’s communication laser, heading towards Earth. Like the cosmic ray, it arrives all over the surface, in different histories. In each history, only one atom will absorb the photon and the rest will initially be completely unaffected. A receiver for such communications would then detect the relatively large, discrete change undergone by such an atom. An important consequence for the construction of measuring devices (including eyes) is that no matter how far away the source is, the kick given to an atom by an arriving photon is always the same: it is just that the weaker the signal is, the fewer kicks there are. If this were not so – for instance, if classical physics were true – weak signals would be much more easily swamped by random local noise.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 328 | location 5018-5024 | Added on Wednesday, 31 May 2023 06:43:39
+
+At the end of the process, all those instances are still fungible, but now they are in the ‘excited state’, which has one additional quantum of energy. What is the atom like halfway through the process? Its instances are still fungible, but now half of them are in the ground state and half in the excited state. It is as if a continuously variable amount of money changed ownership gradually from one discrete owner to another. This mechanism is ubiquitous in quantum physics, and is the general means by which transitions between discrete states happen in a continuous way. In classical physics, a ‘tiny effect’ always means a tiny change in some measurable quantities. In quantum physics, physical variables are typically discrete and so cannot undergo tiny changes. Instead, a ‘tiny effect’ means a tiny change in the
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 328 | location 5018-5024 | Added on Wednesday, 31 May 2023 06:43:51
+
+At the end of the process, all those instances are still fungible, but now they are in the ‘excited state’, which has one additional quantum of energy. What is the atom like halfway through the process? Its instances are still fungible, but now half of them are in the ground state and half in the excited state. It is as if a continuously variable amount of money changed ownership gradually from one discrete owner to another. This mechanism is ubiquitous in quantum physics, and is the general means by which transitions between discrete states happen in a continuous way. In classical physics, a ‘tiny effect’ always means a tiny change in some measurable quantities. In quantum physics, physical variables are typically discrete and so cannot undergo tiny changes. Instead, a ‘tiny effect’ means a tiny change in the proportions that have the various discrete attributes.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 329 | location 5039-5048 | Added on Wednesday, 31 May 2023 06:46:23
+
+They might also speculate about less parochial issues. The story could say that their sun is part of a cluster of dozens of stars, all within a sphere of a few light-weeks’ radius. This has puzzled their scientists for decades, since the composition of the stars shows that they originated from far and wide and became gravitationally bound through a series of very unlikely coincidences. In most universes, these scientists calculate, life cannot evolve in such dense star clusters, because there are too many collisions. So in most universes that contain humans there are no fleets of starships visiting inhabited star systems one after another. They have been trying to discover a mechanism by which the proximity of nearby stars might somehow precipitate the formation of intelligent life, but they have failed. Should they consider it just an astronomically unlikely coincidence? But they do not like leaving things unexplained. Something must have selected them, they conclude. It did. Those people are not just a story. They are real, living, thinking human beings, wondering at this very moment where they came from. But they will never find out. In that one respect, they are unlucky: they were indeed selected by coincidence. Another way of putting that is that they were selected by the very story that I am now telling about them. All fiction that does not violate the laws of physics is fact.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 332 | location 5078-5083 | Added on Wednesday, 31 May 2023 06:49:59
+
+The ‘history’ approximation breaks down completely only when histories not only split but merge – that is to say, in interference phenomena. For example, there are certain molecules that exist in two or more structures at once (a ‘structure’ being an arrangement of atoms, held together by chemical bonds). Chemists call this phenomenon ‘resonance’ between the two structures, but the molecule is not alternating between them: it has them simultaneously. There is no way of explaining the chemical properties of such molecules in terms of a single structure, because when a ‘resonant’ molecule participates in a chemical reaction with other molecules, there is quantum interference.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 332 | location 5090-5096 | Added on Wednesday, 31 May 2023 06:51:00
+
+We are channels of information flow. So are histories, and so are all relatively autonomous objects within histories; but we sentient beings are extremely unusual channels, along which (sometimes) knowledge grows. This can have dramatic effects, not only within a history (where it can, for instance, have effects that do not diminish with distance), but also across the multiverse. Since the growth of knowledge is a process of error-correction, and since there are many more ways of being wrong than right, knowledge-creating entities rapidly become more alike in different histories than other entities. As far as is known, knowledge-creating processes are unique in both these respects: all other effects diminish with distance in space, and become increasingly different across the multiverse, in the long run.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 333 | location 5096-5104 | Added on Wednesday, 31 May 2023 06:52:14
+
+Here is an opportunity for some wild speculations that could inform a science-fiction story. What if there is something other than information flow that can cause coherent, emergent phenomena in the multiverse? What if knowledge, or something other than knowledge, could emerge from that, and begin to have purposes of its own, and to conform the multiverse to those purposes, as we do? Could we communicate with it? Presumably not in the usual sense of the term, because that would be information flow; but perhaps the story could propose some novel analogue of communication which, like quantum inference, did not involve sending messages. Would we be trapped in a war of mutual extermination with such an entity? Or is it possible that we could nevertheless have something in common with it? Let us shun parochial resolutions of the issue – such as a discovery that what bridges the barrier is love, or trust. But let us remember that, just as we are at the top rank of significance in the great scheme of things, anything else that could create explanations would be too. And there is always room at the top.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 337 | location 5167-5169 | Added on Wednesday, 31 May 2023 17:56:34
+
+With hindsight, we can state the rule of thumb like this: whenever a measurement is made, all the histories but one cease to exist. The surviving one is chosen at random, with the probability of each possible outcome being equal to the total measure of all the histories in which that outcome occurs.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 340 | location 5203-5207 | Added on Wednesday, 31 May 2023 18:01:49
+
+Later, Heisenberg called the values about which one was not permitted to ask potentialities, of which only one would become actual when a measurement was completed. How can potentialities that do not happen affect actual outcomes? That was left vague. What caused the transition between ‘potential’ and ‘actual’? The implication of Bohr’s anthropocentric language – which was made explicit in most subsequent presentations of the Copenhagen interpretation – was that the transition is caused by human consciousness. Thus consciousness was said to be acting at a fundamental level in physics.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 346 | location 5293-5307 | Added on Wednesday, 31 May 2023 18:40:59
+
+Nothing like that is true of rational ways of thinking: creating a good explanation is hard not because of what anyone has decided, but because there is an objective reality that does not meet anyone’s prior expectations, including those of authorities. The creators of bad explanations such as myths are indeed just making things up. But the method of seeking good explanations creates an engagement with reality, not only in science, but in good philosophy too – which is why it works, and why it is the antithesis of concocting stories to meet made-up criteria. Although there have been signs of improvement since the late twentieth century, one legacy of empiricism that continues to cause confusion, and has opened the door to a great deal of bad philosophy, is the idea that it is possible to split a scientific theory into its predictive rules of thumb on the one hand and its assertions about reality (sometimes known as its ‘interpretation’) on the other. This does not make sense, because – as with conjuring tricks – without an explanation it is impossible to recognize the circumstances under which a rule of thumb is supposed to apply. And it especially does not make sense in fundamental physics, because the predicted outcome of an observation is itself an unobserved physical process. Many sciences have so far avoided this split, including most branches of physics – though relativity may have had a narrow escape, as I mentioned. Hence in, say, palaeontology, we do not speak of the existence of dinosaurs millions of years ago as being ‘an interpretation of our best theory of fossils’: we claim that it is the explanation of fossils. And, in any case, the theory of evolution is not primarily about fossils or even dinosaurs, but about their genes, of which not even fossils exist. We claim that there really were dinosaurs, and that they had genes whose chemistry we know, even though there is an infinity of possible rival ‘interpretations’ of the same data which make all the same predictions and yet say that neither the dinosaurs nor their genes were ever there.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 346 | location 5303-5308 | Added on Wednesday, 31 May 2023 18:41:14
+
+Hence in, say, palaeontology, we do not speak of the existence of dinosaurs millions of years ago as being ‘an interpretation of our best theory of fossils’: we claim that it is the explanation of fossils. And, in any case, the theory of evolution is not primarily about fossils or even dinosaurs, but about their genes, of which not even fossils exist. We claim that there really were dinosaurs, and that they had genes whose chemistry we know, even though there is an infinity of possible rival ‘interpretations’ of the same data which make all the same predictions and yet say that neither the dinosaurs nor their genes were ever there. One
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 352 | location 5386-5391 | Added on Friday, 2 June 2023 02:03:52
+
+The interpreters of the study may respond that it has proved that there can be no such book! Certainly none of them will write such a book, or arrive at such a thesis. And so the bad philosophy will have caused bad science, which will have stifled the growth of knowledge. Notice that this is a form of bad science that may well have conformed to all the best practices of scientific method – proper randomizing, proper controls, proper statistical analysis. All the formal rules of ‘how to keep from fooling ourselves’ may have been followed. And yet no progress could possibly be made, because it was not being sought: explanationless theories can do no more than entrench existing, bad explanations.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 352 | location 5387-5391 | Added on Friday, 2 June 2023 02:04:02
+
+And so the bad philosophy will have caused bad science, which will have stifled the growth of knowledge. Notice that this is a form of bad science that may well have conformed to all the best practices of scientific method – proper randomizing, proper controls, proper statistical analysis. All the formal rules of ‘how to keep from fooling ourselves’ may have been followed. And yet no progress could possibly be made, because it was not being sought: explanationless theories can do no more than entrench existing, bad explanations.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 353 | location 5408-5411 | Added on Friday, 2 June 2023 02:07:10
+
+This form of explanationless science is just bad philosophy disguised as science. Its effect is to suppress the philosophical debate about how animals should be treated, by pretending that the issue has been settled scientifically. In reality, science has, and will have, no access to this issue until explanatory knowledge about qualia has been discovered.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 362 | location 5539-5548 | Added on Friday, 2 June 2023 02:16:53
+
+For in elections, only the will of voters counts, and not all of ‘the people’ are voters. At the time, voters were a fairly small minority: only free male citizens over the age of twenty-one. To address this point, the ‘Numbers’ referred to in the Constitution constituted the whole population of a state, including non-voters such as women, children, immigrants and slaves. In this way the Constitution attempted to treat the population equally by treating voters unequally. So voters in states with a higher proportion of non-voters were allocated more representatives per capita. This had the perverse effect that in the states where the voters were already the most privileged within the state (i.e. where they were an exceptionally small minority), they now received an additional privilege relative to voters in other states: they were allocated more representation in Congress. This became a hot political issue in regard to slave-owners. Why should slave-owning states be allocated more political clout in proportion to how many slaves they had? To reduce this effect, a compromise was reached whereby a slave counted as three-fifths of a person for the purpose of apportioning seats in the House.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 368 | location 5634-5639 | Added on Saturday, 3 June 2023 00:57:08
+
+During the twentieth century, and especially following the Second World War, a consensus had emerged among most major political movements that the future welfare of humankind would depend on an increase in society-wide (preferably worldwide) planning and decision-making. The Western consensus differed from its totalitarian counterparts in that it expected the object of the exercise to be the satisfaction of individual citizens’ preferences. So Western advocates of society-wide planning were forced to address a fundamental question that totalitarians do not encounter: when society as a whole faces a choice, and citizens differ in their preferences among the options, which option is it best for society to choose?
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 368 | location 5634-5644 | Added on Saturday, 3 June 2023 00:57:40
+
+During the twentieth century, and especially following the Second World War, a consensus had emerged among most major political movements that the future welfare of humankind would depend on an increase in society-wide (preferably worldwide) planning and decision-making. The Western consensus differed from its totalitarian counterparts in that it expected the object of the exercise to be the satisfaction of individual citizens’ preferences. So Western advocates of society-wide planning were forced to address a fundamental question that totalitarians do not encounter: when society as a whole faces a choice, and citizens differ in their preferences among the options, which option is it best for society to choose? If people are unanimous, there is no problem – but no need for a planner either. If they are not, which option can be rationally defended as being ‘the will of the people’ – the option that society ‘wants’? And that raises a second question: how should society organize its decision-making so that it does indeed choose the options that it ‘wants’? These two questions had been present, at least implicitly, from the beginning of modern democracy. For instance, the US Declaration of Independence and the US Constitution both speak of the right of ‘the people’ to do certain things such as remove governments. Now they became the central questions of a branch of mathematical game theory known as social-choice theory.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 369 | location 5652-5657 | Added on Saturday, 3 June 2023 02:49:19
+
+Thus it turned out that the apportionment problem, which had absorbed so much legislative time, effort and passion, was the tip of an iceberg. The problem is much less parochial than it looks. For instance, rounding errors are proportionately smaller with a larger legislature. So why don’t they just make the legislature very big – say, ten thousand members – so that all the rounding errors would be trivial? One reason is that such a legislature would have to organize itself internally to make any decisions. The factions within the legislature would themselves have to choose leaders, policies, strategies, and so on. Consequently, all the problems of social choice would arise within the little ‘society’ of a party’s contingent in the legislature. So it is not really about rounding errors.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 371 | location 5679-5683 | Added on Saturday, 3 June 2023 02:52:56
+
+Arrow proved that the axioms that I have just listed are, despite their reasonable appearance, logically inconsistent with each other. No way of conceiving of ‘the will of the people’ can satisfy all five of them. This strikes at the assumptions behind social-choice theory at an arguably even deeper level than the theorems of Balinski and Young. First, Arrow’s axioms are not about the apparently parochial issue of apportionment, but about any situation in which we want to conceive of a group having preferences. Second, all five of these axioms are intuitively not just desirable to make a system fair, but essential for it to be rational. Yet they are inconsistent.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 371 | location 5679-5689 | Added on Saturday, 3 June 2023 03:28:46
+
+Arrow proved that the axioms that I have just listed are, despite their reasonable appearance, logically inconsistent with each other. No way of conceiving of ‘the will of the people’ can satisfy all five of them. This strikes at the assumptions behind social-choice theory at an arguably even deeper level than the theorems of Balinski and Young. First, Arrow’s axioms are not about the apparently parochial issue of apportionment, but about any situation in which we want to conceive of a group having preferences. Second, all five of these axioms are intuitively not just desirable to make a system fair, but essential for it to be rational. Yet they are inconsistent. It seems to follow that a group of people jointly making decisions is necessarily irrational in one way or another. It may be a dictatorship, or under some sort of arbitrary rule; or, if it meets all three representativeness conditions, then it must sometimes change its ‘mind’ in a direction opposite to that in which criticism and persuasion have been effective. So it will make perverse choices, no matter how wise and benevolent the people who interpret and enforce its preferences may be – unless, possibly, one of them is a dictator (see below). So there is no such thing as ‘the will of the people’. There is no way to regard ‘society’ as a decision-maker with self-consistent preferences. This is hardly the conclusion that social-choice theory was supposed to report back to the world.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 373 | location 5713-5720 | Added on Saturday, 3 June 2023 03:31:15
+
+But that is really the least of the irrational attributes of proportional representation. A more important one – which is shared by even the mildest of proportional systems – is that they assign disproportionate power in the legislature to the third-largest party, and often to even smaller parties. It works like this. It is rare (in any system) for a single party to receive an overall majority of votes. Hence, if votes are reflected proportionately in the legislature, no legislation can be passed unless some of the parties cooperate to pass it, and no government can be formed unless some of them form a coalition. Sometimes the two largest parties manage to do this, but the most common outcome is that the leader of the third-largest party holds the ‘balance of power’ and decides which of the two largest parties shall join it in government, and which shall be sidelined, and for how long. That means that it is correspondingly harder for the electorate to decide which party, and which policies, will be removed from power. In
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 375 | location 5750-5756 | Added on Saturday, 3 June 2023 03:42:35
+
+To choose an option, rationally, is to choose the associated explanation. Therefore, rational decision-making consists not of weighing evidence but of explaining it, in the course of explaining the world. One judges arguments as explanations, not justifications, and one does this creatively, using conjecture, tempered by every kind of criticism. It is in the nature of good explanations – being hard to vary – that there is only one of them. Having created it, one is no longer tempted by the alternatives. They have been not outweighed, but out-argued, refuted and abandoned. During the course of a creative process, one is not struggling to distinguish between countless different explanations of nearly equal merit; typically, one is struggling to create even one good explanation, and, having succeeded, one is glad to be rid of the rest.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 379 | location 5812-5820 | Added on Saturday, 3 June 2023 05:21:19
+
+The essence of democratic decision-making is not the choice made by the system at elections, but the ideas created between elections. And elections are merely one of the many institutions whose function is to allow such ideas to be created, tested, modified and rejected. The voters are not a fount of wisdom from which the right policies can be empirically ‘derived’. They are attempting, fallibly, to explain the world and thereby to improve it. They are, both individually and collectively, seeking the truth – or should be, if they are rational. And there is an objective truth of the matter. Problems are soluble. Society is not a zero-sum game: the civilization of the Enlightenment did not get where it is today by cleverly sharing out the wealth, votes or anything else that was in dispute when it began. It got here by creating ex nihilo. In particular, what voters are doing in elections is not synthesizing a decision of a superhuman being, ‘Society’. They are choosing which experiments are to be attempted next, and (principally) which are to be abandoned because there is no longer a good explanation for why they are best. The politicians, and their policies, are those experiments.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 380 | location 5823-5825 | Added on Saturday, 3 June 2023 05:23:40
+
+Why don’t they just . . . fix social-choice theory by including creative processes such as explanation and persuasion in its mathematical model of decision-making? Because it is not known how to model a creative process. Such a model would be a creative process:
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 380 | location 5823-5825 | Added on Saturday, 3 June 2023 05:23:45
+
+Why don’t they just . . . fix social-choice theory by including creative processes such as explanation and persuasion in its mathematical model of decision-making? Because it is not known how to model a creative process. Such a model would be a creative process: an AI.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 386 | location 5905-5916 | Added on Saturday, 3 June 2023 05:30:50
+
+science, we do not consider it surprising that a community of scientists with different initial hopes and expectations, continually in dispute about their rival theories, gradually come into near-unanimous agreement over a steady stream of issues (yet still continue to disagree all the time). It is not surprising because, in their case, there are observable facts that they can use to test their theories. They converge with each other on any given issue because they are all converging on the objective truth. In politics it is customary to be cynical about that sort of convergence being possible. But that is a pessimistic view. Throughout the West, a great deal of philosophical knowledge that is nowadays taken for granted by almost everyone – say, that slavery is an abomination, or that women should be free to go out to work, or that autopsies should be legal, or that promotion in the armed forces should not depend on skin colour – was highly controversial only a matter of decades ago, and originally the opposite positions were taken for granted. A successful truth-seeking system works its way towards broad consensus or near-unanimity – the one state of public opinion that is not subject to decision-theoretic paradoxes and where ‘the will of the people’ makes sense. So convergence in the broad consensus over time is made possible by the fact that all concerned are gradually eliminating errors in their positions and converging on objective truths. Facilitating that process – by meeting Popper’s criterion as well as possible – is more important than which of two contending factions with near-equal support gets its way at a particular election.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 387 | location 5930-5933 | Added on Saturday, 3 June 2023 05:32:31
+
+The growth of the body of knowledge about which there is unanimous agreement does not entail a dying-down of controversy: on the contrary, human beings will never disagree any less than they do now, and that is a very good thing. If those institutions do, as they seem to, fulfil the hope that it is possible for changes to be for the better, on balance, then human life can improve without limit as we advance from misconception to ever better misconception.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 392 | location 5998-6005 | Added on Saturday, 3 June 2023 20:22:39
+
+Are these resemblances only superficial? Was Beethoven fooling himself when he thought that the sheets in his waste-paper basket contained mistakes: that they were worse than the sheets he would eventually publish? Was he merely meeting the arbitrary standards of his culture, like the twentieth-century women who carefully adjusted their hemlines each year to conform to the latest fashions? Or is there a real meaning to saying that the music of Beethoven and Mozart was as far above that of their Stone Age ancestors banging mammoth bones together as Ramanujan’s mathematics was above tally marks? Is it an illusion that the criteria that Beethoven and Mozart were trying to meet were better too? Or is there no such thing as better? Is there only ‘I know what I like,’ or what tradition or authority designates as good? Or what our genes predispose us to like? The psychologist Shigeru Watanabe has found that sparrows prefer harmonious to discordant music. Is that all that human artistic appreciation is?
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 397 | location 6079-6085 | Added on Wednesday, 7 June 2023 19:04:36
+
+One unusual aspect of the flower–insect co-evolution is that it involved the creation of a complex code, or language, for signalling information between species. It had to be complex because the genes were facing a difficult communication problem. The code had to be, on the one hand, easily recognizable by the right insects, and, on the other, difficult to forge by other species of flower – for if other species could cause their pollen to be spread by the same insects without having to manufacture nectar for them, which requires energy, they would have a selective advantage. So the criterion that was evolving in the insects had to be discriminating enough to pick the right flowers and not crude imitations; and the flowers’ design had to be such that no design that other flower species could easily evolve could be mistaken for it. Thus both the criterion and the means of meeting it had to be hard to vary.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 403 | location 6178-6184 | Added on Saturday, 10 June 2023 20:20:25
+
+If I am right, then the future of art is as mind-boggling as the future of every other kind of knowledge: art of the future can create unlimited increases in beauty. I can only speculate, but we can presumably expect new kinds of unification too. When we understand better what elegance really is, perhaps we shall find new and better ways to seek truth using elegance or beauty. I guess that we shall also be able to design new senses, and design new qualia, that can encompass beauty of new kinds literally inconceivable to us now. ‘What is it like to be a bat?’ is a famous question asked by the philosopher Thomas Nagel. (More precisely, what would it be like for a person to have the echo-location senses of a bat?) Perhaps the full answer is that in future it will be not so much be the task of philosophy to discover what that is like, but the task of technological art to give us the experience itself.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 409 | location 6269-6271 | Added on Friday, 23 June 2023 22:10:45
+
+Although we do not know exactly how creativity works, we do know that it is itself an evolutionary process within individual brains. For it depends on conjecture (which is variation) and criticism (for the purpose of selecting ideas). So, somewhere inside brains, blind variations and selections are adding up
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 409 | location 6269-6271 | Added on Friday, 23 June 2023 22:10:49
+
+Although we do not know exactly how creativity works, we do know that it is itself an evolutionary process within individual brains. For it depends on conjecture (which is variation) and criticism (for the purpose of selecting ideas). So, somewhere inside brains, blind variations and selections are adding up to creative thought at a higher level of emergence.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 416 | location 6368-6370 | Added on Friday, 23 June 2023 22:17:03
+
+Hence the frequently cited metaphor of the history of life on Earth, in which human civilization occupies only the final ‘second’ of the ‘day’ during which life has so far existed, is misleading.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 416 | location 6365-6371 | Added on Friday, 23 June 2023 22:17:17
+
+Since a person can enact and transmit a meme soon after receiving it, a meme generation can be much shorter than a human generation. And many cycles of variation and selection can take place inside the minds concerned even during one meme generation. Also, memes can be passed to people other than the holders’ biological descendants. Those factors make meme evolution enormously faster than gene evolution, which partly explains how memes can contain so much knowledge. Hence the frequently cited metaphor of the history of life on Earth, in which human civilization occupies only the final ‘second’ of the ‘day’ during which life has so far existed, is misleading. In reality, a substantial proportion of all evolution on our planet to date has occurred in human brains. And it has barely begun. The whole of biological evolution was but a preface to the main story of evolution, the evolution of memes.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 419 | location 6411-6416 | Added on Friday, 23 June 2023 22:21:58
+
+The details are variable and not relevant here, but the sort of thing that happens is that people growing up in such a society acquire a set of values for judging themselves and everyone else which amounts to ridding themselves of distinctive attributes and seeking only conformity with the society’s constitutive memes. They not only enact those memes: they see themselves as existing only in order to enact them. So, not only do such societies enforce qualities such as obedience, piety and devotion to duty, their members’ sense of their own selves is invested in the same standards. People know no others. So they feel pride and shame, and form all their aspirations and opinions, by the criterion of how thoroughly they subordinate themselves to the society’s memes.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 421 | location 6453-6459 | Added on Friday, 23 June 2023 22:28:47
+
+A static society forms when there is no escape from this effect: all significant behaviour, all relationships between people, and all thoughts are subordinated to causing faithful replication of the memes. In all areas controlled by the memes, no critical faculties are exercised. No innovation is tolerated, and almost none is attempted. This destruction of human minds makes static societies almost unimaginable from our perspective. Countless human beings, hoping throughout lifetimes, and for generations, for their suffering to be relieved, not only fail to make progress in realizing any such hope: they largely fail even to try to make any, or even to think about trying. If they do see an opportunity, they reject it. The spirit of creativity with which we are all born is systematically extinguished in them before it can ever create anything new.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 423 | location 6478-6488 | Added on Friday, 23 June 2023 22:32:32
+
+Since the sustained, exponential growth of knowledge has unmistakable effects, we can deduce without historical research that every society on Earth before the current Western civilization has either been static or has been destroyed within a few generations. The golden ages of Athens and Florence are examples of the latter, but there may have been many others. This directly contradicts the widely held belief that individuals in primitive societies were happy in a way that has not been possible since – that they were unconstrained by social convention and other imperatives of civilization, and hence were able to achieve self-expression and fulfilment of their needs and desires. But primitive societies (including tribes of hunter-gatherers) must all have been static societies, because if ever one ceased to be static it would soon cease to be primitive, or else destroy itself by losing its distinctive knowledge. In the latter case, the growth of knowledge would still be inhibited by the raw violence which would immediately replace the static society’s institutions. For once violence is mediating changes, they will typically not be for the better. Since static societies cannot exist without effectively extinguishing the growth of knowledge, they cannot allow their members much opportunity to pursue happiness. (Ironically, creating knowledge is itself a natural human need and desire, and static societies, however primitive, ‘unnaturally’ suppress it.)
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 425 | location 6513-6517 | Added on Friday, 23 June 2023 22:34:42
+
+But a true, deep idea has an objective reason to be considered useful by people with diverse purposes over long periods. For instance, Newton’s laws are useful for building better cathedrals, but also for building better bridges and designing better artillery. Because of this reach, they get themselves remembered and enacted by all sorts of people, many of them vehemently opposed to each other’s objectives, over many generations. This is the kind of idea that has a chance of becoming a long-lived meme in a rapidly changing society.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 428 | location 6554-6560 | Added on Friday, 23 June 2023 22:43:46
+
+following Newton, there was no way of missing the fact that rapid progress was under way. (Some philosophers, notably Jean-Jacques Rousseau, did try – but only by arguing that reason was harmful, civilization bad and primitive life happy.) There was such an avalanche of further improvements – scientific, philosophical and political – that the possibility of resuming stasis was swept away. Western society would become the beginning of infinity or be destroyed. Nations beyond the West today are also changing rapidly, sometimes through the exigencies of warfare with their neighbours, but more often and even more powerfully by the peaceful transmission of Western memes. Their cultures, too, cannot become static again. They must either become ‘Western’ in their mode of operation or lose all their knowledge and thus cease to exist – a dilemma which is becoming increasingly significant in world politics.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 428 | location 6563-6570 | Added on Friday, 23 June 2023 22:44:39
+
+many other areas memes are still replicated in the old manner, by means that suppress the recipients’ critical faculties and ignore their preferences. When girls strive to be ladylike and to meet culturally defined standards of shape and appearance, and when boys do their utmost to look strong and not to cry when distressed, they are struggling to replicate ancient ‘gender-stereotyping’ memes that are still part of our culture – despite the fact that explicitly endorsing them has become a stigmatized behaviour. Those memes have the effect of preventing vast ranges of ideas about what sort of life one should lead from ever crossing the holders’ minds. If their thoughts ever wander in the forbidden directions, they feel uneasiness and embarrassment, and the same sort of fear and loss of centredness as religious people have felt since time immemorial at the thought of betraying their gods. And their world views and critical faculties are left disabled in precisely such a way that they will in due course draw the next generation into the same pattern of thought and behaviour.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 433 | location 6629-6642 | Added on Friday, 23 June 2023 22:49:54
+
+How should we understand the existence of the distinctively human emergent phenomena such as creativity and choice, in the light of the fact that part of our behaviour is caused by autonomous entities whose content we do not know? And, worse, given that we are liable to be systematically misled by those entities about the reasons for our own thoughts, opinions and behaviour? The basic answer is that it should not come as a surprise that we can be badly mistaken in any of our ideas, even about ourselves, and even when we feel strongly that we are right. So we should respond no differently, in principle, from how we respond to the possibility of being in error for any other reason. We are fallible, but through conjecture, criticism and seeking good explanations we may correct some of our errors. Memes hide, but, just as with the optical blind spot, there is nothing to prevent our using a combination of explanation and observation to detect a meme and discover its implicit content indirectly. For example, whenever we find ourselves enacting a complex or narrowly defined behaviour that has been accurately repeated from one holder to the next, we should be suspicious. If we find that enacting this behaviour thwarts our efforts to attain our personal objectives, or is faithfully continued when the ostensible justifications for it disappear, we should become more suspicious. If we then find ourselves explaining our own behaviour with bad explanations, we should become still more suspicious. Of course, at any given point we may fail either to notice these things or to discover the true explanation of them. But failure need not be permanent in a world in which all evils are due to lack of knowledge. We failed at first to notice the non-existence of a force of gravity. Now we understand it. Locating hang-ups is, in the last analysis, easier.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 433 | location 6630-6631 | Added on Friday, 23 June 2023 22:50:01
+
+And, worse, given that we are liable to be systematically misled by those entities about the reasons for our own thoughts, opinions and behaviour?
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 433 | location 6636-6642 | Added on Friday, 23 June 2023 22:50:09
+
+whenever we find ourselves enacting a complex or narrowly defined behaviour that has been accurately repeated from one holder to the next, we should be suspicious. If we find that enacting this behaviour thwarts our efforts to attain our personal objectives, or is faithfully continued when the ostensible justifications for it disappear, we should become more suspicious. If we then find ourselves explaining our own behaviour with bad explanations, we should become still more suspicious. Of course, at any given point we may fail either to notice these things or to discover the true explanation of them. But failure need not be permanent in a world in which all evils are due to lack of knowledge. We failed at first to notice the non-existence of a force of gravity. Now we understand it. Locating hang-ups is, in the last analysis, easier.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 433 | location 6636-6641 | Added on Friday, 23 June 2023 22:50:29
+
+whenever we find ourselves enacting a complex or narrowly defined behaviour that has been accurately repeated from one holder to the next, we should be suspicious. If we find that enacting this behaviour thwarts our efforts to attain our personal objectives, or is faithfully continued when the ostensible justifications for it disappear, we should become more suspicious. If we then find ourselves explaining our own behaviour with bad explanations, we should become still more suspicious. Of course, at any given point we may fail either to notice these things or to discover the true explanation of them. But failure need not be permanent in a world in which all evils are due to lack of knowledge.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 416 | location 6365-6371 | Added on Saturday, 24 June 2023 20:29:24
+
+Since a person can enact and transmit a meme soon after receiving it, a meme generation can be much shorter than a human generation. And many cycles of variation and selection can take place inside the minds concerned even during one meme generation. Also, memes can be passed to people other than the holders’ biological descendants. Those factors make meme evolution enormously faster than gene evolution, which partly explains how memes can contain so much knowledge. Hence the frequently cited metaphor of the history of life on Earth, in which human civilization occupies only the final ‘second’ of the ‘day’ during which life has so far existed, is misleading. In reality, a substantial proportion of all evolution on our planet to date has occurred in human brains. And it has barely begun. The whole of biological evolution was but a preface to the main story of evolution, the evolution of memes.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 421 | location 6453-6459 | Added on Saturday, 24 June 2023 20:30:04
+
+A static society forms when there is no escape from this effect: all significant behaviour, all relationships between people, and all thoughts are subordinated to causing faithful replication of the memes. In all areas controlled by the memes, no critical faculties are exercised. No innovation is tolerated, and almost none is attempted. This destruction of human minds makes static societies almost unimaginable from our perspective. Countless human beings, hoping throughout lifetimes, and for generations, for their suffering to be relieved, not only fail to make progress in realizing any such hope: they largely fail even to try to make any, or even to think about trying. If they do see an opportunity, they reject it. The spirit of creativity with which we are all born is systematically extinguished in them before it can ever create anything new.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 423 | location 6478-6485 | Added on Saturday, 24 June 2023 20:30:23
+
+Since the sustained, exponential growth of knowledge has unmistakable effects, we can deduce without historical research that every society on Earth before the current Western civilization has either been static or has been destroyed within a few generations. The golden ages of Athens and Florence are examples of the latter, but there may have been many others. This directly contradicts the widely held belief that individuals in primitive societies were happy in a way that has not been possible since – that they were unconstrained by social convention and other imperatives of civilization, and hence were able to achieve self-expression and fulfilment of their needs and desires. But primitive societies (including tribes of hunter-gatherers) must all have been static societies, because if ever one ceased to be static it would soon cease to be primitive, or else destroy itself by losing its distinctive knowledge.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 425 | location 6513-6517 | Added on Saturday, 24 June 2023 20:30:46
+
+But a true, deep idea has an objective reason to be considered useful by people with diverse purposes over long periods. For instance, Newton’s laws are useful for building better cathedrals, but also for building better bridges and designing better artillery. Because of this reach, they get themselves remembered and enacted by all sorts of people, many of them vehemently opposed to each other’s objectives, over many generations. This is the kind of idea that has a chance of becoming a long-lived meme in a rapidly changing society.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 428 | location 6554-6560 | Added on Saturday, 24 June 2023 20:31:04
+
+In any case, following Newton, there was no way of missing the fact that rapid progress was under way. (Some philosophers, notably Jean-Jacques Rousseau, did try – but only by arguing that reason was harmful, civilization bad and primitive life happy.) There was such an avalanche of further improvements – scientific, philosophical and political – that the possibility of resuming stasis was swept away. Western society would become the beginning of infinity or be destroyed. Nations beyond the West today are also changing rapidly, sometimes through the exigencies of warfare with their neighbours, but more often and even more powerfully by the peaceful transmission of Western memes. Their cultures, too, cannot become static again. They must either become ‘Western’ in their mode of operation or lose all their knowledge and thus cease to exist – a dilemma which is becoming increasingly significant in world politics.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 428 | location 6563-6570 | Added on Saturday, 24 June 2023 20:31:28
+
+But in many other areas memes are still replicated in the old manner, by means that suppress the recipients’ critical faculties and ignore their preferences. When girls strive to be ladylike and to meet culturally defined standards of shape and appearance, and when boys do their utmost to look strong and not to cry when distressed, they are struggling to replicate ancient ‘gender-stereotyping’ memes that are still part of our culture – despite the fact that explicitly endorsing them has become a stigmatized behaviour. Those memes have the effect of preventing vast ranges of ideas about what sort of life one should lead from ever crossing the holders’ minds. If their thoughts ever wander in the forbidden directions, they feel uneasiness and embarrassment, and the same sort of fear and loss of centredness as religious people have felt since time immemorial at the thought of betraying their gods. And their world views and critical faculties are left disabled in precisely such a way that they will in due course draw the next generation into the same pattern of thought and behaviour.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 434 | location 6642-6646 | Added on Saturday, 24 June 2023 20:32:49
+
+Another thing that should make us suspicious is the presence of the conditions for anti-rational meme evolution, such as deference to authority, static subcultures and so on. Anything that says ‘Because I say so’ or ‘It never did me any harm,’ anything that says ‘Let us suppress criticism of our idea because it is true,’ suggests static-society thinking. We should examine and criticize laws, customs and other institutions with an eye to whether they set up conditions for anti-rational memes to evolve. Avoiding such conditions is the essence of Popper’s criterion.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 437 | location 6689-6697 | Added on Saturday, 24 June 2023 20:40:01
+
+In prehistoric times it would not have been obvious to a casual observer (say, an explorer from an extraterrestrial civilization) that humans were capable of creative thought at all. It would have seemed that we were doing no more than endlessly repeating the lifestyle to which we were genetically adapted, just like all the other billions of species in the biosphere. Clearly, we were tool-users – but so were many other species. We were communicating using symbolic language – but, again, that was not unusual: even bees do that. We were domesticating other species – but so do ants. Closer observation would have revealed that human languages and the knowledge for human tool use were being transmitted through memes and not genes. That made us fairly unusual, but still not obviously creative: several other species have memes. But what they do not have is the means of improving them other than through random trial and error. Nor are they capable of sustained improvement over many generations. Today, the creativity that humans use to improve ideas is what pre-eminently sets us apart from other species. Yet for most of the time that humans have existed it was not noticeably in use.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 451 | location 6907-6912 | Added on Saturday, 24 June 2023 21:15:27
+
+The inductivist or Lamarckian approach operates with the idea of instruction from without, or from the environment. But the critical or Darwinian approach only allows instruction from within – from within the structure itself . . . I contend that there is no such thing as instruction from without the structure. We do not discover new facts or new effects by copying them, or by inferring them inductively from observation, or by any other method of instruction by the environment. We use, rather, the method of trial and the elimination of error. As Ernst Gombrich says, ‘making comes before matching’: the active production of a new trial structure comes before its exposure to eliminating tests.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 455 | location 6964-6970 | Added on Saturday, 24 June 2023 22:14:56
+
+Therefore, my speculation is that the creativity program is not entirely inborn. It is a combination of genes and memes. The hardware of the human brain would have been capable of being creative (and sentient, conscious and all those other things) long before any creative program existed. Considering a sequence of brains during this period, the earliest ones capable of supporting creativity would have required very ingenious programming to fit the capacity into the barely suitable hardware. As the hardware improved, creativity could have been programmed more easily, until the moment when it became easy enough actually to be done by evolution. We do not know what was being gradually increased in that approach to a universal explainer. If we did, we could program one tomorrow.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 456 | location 6980-6984 | Added on Saturday, 24 June 2023 22:23:52
+
+Not only is creativity necessary for human meme replication, it is also sufficient. Deaf people and blind people and paralysed people are still able to acquire and create human ideas to a more or less full extent. Hence, neither upright walking nor fine motor control nor the ability to parse sounds into words nor any of those other adaptations, though they might have played a role historically in creating the conditions for human evolution, were functionally necessary to allow humans to become creative. Nor, therefore, are they philosophically significant in understanding what humans are today, namely people: creative, universal explainers.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 456 | location 6990-6996 | Added on Saturday, 24 June 2023 22:25:06
+
+The horror of static societies, which I described in the previous chapter, can now be seen as a hideous practical joke that the universe played on the human species. Our creativity, which evolved in order to increase the amount of knowledge that we could use, and which would immediately have been capable of producing an endless stream of useful innovations as well, was from the outset prevented from doing so by the very knowledge – the memes – that that creativity preserved. The strivings of individuals to better themselves were, from the outset, perverted by a superhumanly evil mechanism that turned their efforts to exactly the opposite end: to thwart all attempts at improvement; to keep sentient beings locked in a crude, suffering state for eternity. Only the Enlightenment, hundreds of thousands of years later, and after who knows how many false starts, may at last have made it practical to escape from that eternity into infinity.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 462 | location 7072-7077 | Added on Saturday, 24 June 2023 22:42:33
+
+The knowledge that currently sustains human life in Oxfordshire does so only in the first sense: it does not make us enact the same, traditional way of life in every generation. In fact it prevents us from doing so. For comparison: if your way of life merely makes you build a new, giant statue, you can continue to live afterwards exactly as you did before. That is sustainable. But if your way of life leads you to invent a more efficient method of farming, and to cure a disease that has been killing many children, that is unsustainable. The population grows because children who would have died survive; meanwhile, fewer of them are needed to work in the fields. And so there is no way to continue as before. You have to live the solution, and to set about solving the new problems that this creates.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 469 | location 7191-7196 | Added on Saturday, 24 June 2023 23:00:12
+
+In reality, the difference between Sparta and Athens, or between Savonarola and Lorenzo de’ Medici, had nothing to do with their genes; nor did the difference between the Easter Islanders and the imperial British. They were all people – universal explainers and constructors. But their ideas were different. Nor did landscape cause the Enlightenment. It would be much truer to say that the landscape we live in is the product of ideas. The primeval landscape, though packed with evidence and therefore opportunity, contained not a single idea. It is knowledge alone that converts landscapes into resources, and humans alone who are the authors of explanatory knowledge and hence of the uniquely human behaviour called ‘history’.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 470 | location 7201-7205 | Added on Saturday, 24 June 2023 23:01:21
+
+Thus, since the beginning of civilization and before, both the principal opportunities for progress and the principal obstacles to progress have consisted of ideas alone. These are the determinants of the broad sweep of history. The primeval distribution of horses or llamas or flint or uranium can affect only the details, and then only after some human being has had an idea for how to use those things. The effects of ideas and decisions almost entirely determine which biogeographical factors have a bearing on the next chapter of human history, and what that effect will be. Marx, Engels and Diamond have it the wrong way round.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 483 | location 7397-7407 | Added on Saturday, 24 June 2023 23:21:36
+
+The world is currently buzzing with plans to force reductions in gas emissions at almost any cost. But it ought to be buzzing much more with plans to reduce the temperature, or for how to thrive at a higher temperature. And not at all costs, but efficiently and cheaply. Some such plans exist – for instance to remove carbon dioxide from the atmosphere by a variety of methods; and to generate clouds over the oceans to reflect sunlight; and to encourage aquatic organisms to absorb more carbon dioxide. But at the moment these are very minor research efforts. Neither supercomputers nor international treaties nor vast sums are devoted to them. They are not central to the human effort to face this problem, or problems like it. This is dangerous. There is as yet no serious sign of retreat into a sustainable lifestyle (which would really mean achieving only the semblance of sustainability), but even the aspiration is dangerous. For what would we be aspiring to? To forcing the future world into our image, endlessly reproducing our lifestyle, our misconceptions and our mistakes. But if we choose instead to embark on an open-ended journey of creation and exploration whose every step is unsustainable until it is redeemed by the next – if this becomes the prevailing ethic and aspiration of our society – then the ascent of man, the beginning of infinity, will have become, if not secure, then at least sustainable.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 484 | location 7413-7417 | Added on Saturday, 24 June 2023 23:24:01
+
+Static societies eventually fail because their characteristic inability to create knowledge rapidly must eventually turn some problem into a catastrophe. Analogies between such societies and the technological civilization of the West today are therefore fallacies. Marx, Engels and Diamond’s ‘ultimate explanation’ of the different histories of different societies is false: history is the history of ideas, not of the mechanical effects of biogeography. Strategies to prevent foreseeable disasters are bound to fail eventually, and cannot even address the unforeseeable. To prepare for those, we need rapid progress in science and technology and as much wealth as possible.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 488 | location 7478-7482 | Added on Saturday, 24 June 2023 23:35:03
+
+have often thought that the nature of science would be better understood if we called theories ‘misconceptions’ from the outset, instead of only after we have discovered their successors. Thus we could say that Einstein’s Misconception of Gravity was an improvement on Newton’s Misconception, which was an improvement on Kepler’s. The neo-Darwinian Misconception of Evolution is an improvement on Darwin’s Misconception, and his on Lamarck’s. If people thought of it like that, perhaps no one would need to be reminded that science claims neither infallibility nor finality.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 488 | location 7478-7482 | Added on Saturday, 24 June 2023 23:35:08
+
+I have often thought that the nature of science would be better understood if we called theories ‘misconceptions’ from the outset, instead of only after we have discovered their successors. Thus we could say that Einstein’s Misconception of Gravity was an improvement on Newton’s Misconception, which was an improvement on Kepler’s. The neo-Darwinian Misconception of Evolution is an improvement on Darwin’s Misconception, and his on Lamarck’s. If people thought of it like that, perhaps no one would need to be reminded that science claims neither infallibility nor finality.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 488 | location 7478-7484 | Added on Saturday, 24 June 2023 23:36:18
+
+I have often thought that the nature of science would be better understood if we called theories ‘misconceptions’ from the outset, instead of only after we have discovered their successors. Thus we could say that Einstein’s Misconception of Gravity was an improvement on Newton’s Misconception, which was an improvement on Kepler’s. The neo-Darwinian Misconception of Evolution is an improvement on Darwin’s Misconception, and his on Lamarck’s. If people thought of it like that, perhaps no one would need to be reminded that science claims neither infallibility nor finality. Perhaps a more practical way of stressing the same truth would be to frame the growth of knowledge (all knowledge, not only scientific) as a continual transition from problems to better problems, rather than from problems to solutions or from theories to better theories.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 493 | location 7548-7555 | Added on Saturday, 24 June 2023 23:42:40
+
+Everyone’s first thought was that unbounded knowledge-creation is possible only in a universe that does not recollapse. However, on analysis it turned out that the reverse is true: in universes that expand for ever, the inhabitants would run out of energy. But the cosmologist Frank Tipler discovered that in certain types of recollapsing universes the Big Crunch singularity is suitable for performing the faster-and-faster trick that we used in Infinity Hotel: an infinite sequence of computational steps could be executed in a finite time before the singularity, powered by the ever-increasing tidal effects of the gravitational collapse itself. To the inhabitants – who would eventually have to upload their personalities into computers made of something like pure tides – the universe would last for ever because they would be thinking faster and faster, without limit, as it collapsed, and storing their memories in ever smaller volumes so that access times could also be reduced without limit. Tipler called such universes ‘omega-point universes’. At the time, the observational evidence was consistent with the real universe being of that type.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 494 | location 7565-7569 | Added on Saturday, 24 June 2023 23:45:18
+
+Depending on what dark energy turns out to be, it may well be possible to harness it in the distant future, to provide energy for knowledge-creation to continue for ever. Because this energy would have to be collected over ever greater distances, the computation would have to become ever slower. In a mirror image of what would happen in omega-point cosmologies, the inhabitants of the universe would notice no slowdown, because, again, they would be instantiated as computer programs whose total number of steps would be unbounded. Thus dark energy, which has ruled out one scenario for the unlimited growth of knowledge, would provide the literal driving force of another.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 498 | location 7632-7637 | Added on Saturday, 24 June 2023 23:58:52
+
+An even more dubious example of anthropic-type reasoning is the doomsday argument. It attempts to estimate the life expectancy of our species by assuming that the typical human is roughly halfway through the sequence of all humans. Hence we should expect the total number who will ever live to be about twice the number who have lived so far. Of course this is prophecy, and for that reason alone cannot possibly be a valid argument, but let me briefly pursue it in its own terms. First, it does not apply at all if the total number of humans is going to be infinite – for in that case every human who ever lives will live unusually early in the sequence. So, if anything, it suggests that we are at the beginning of infinity.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 498 | location 7632-7644 | Added on Sunday, 25 June 2023 00:00:05
+
+An even more dubious example of anthropic-type reasoning is the doomsday argument. It attempts to estimate the life expectancy of our species by assuming that the typical human is roughly halfway through the sequence of all humans. Hence we should expect the total number who will ever live to be about twice the number who have lived so far. Of course this is prophecy, and for that reason alone cannot possibly be a valid argument, but let me briefly pursue it in its own terms. First, it does not apply at all if the total number of humans is going to be infinite – for in that case every human who ever lives will live unusually early in the sequence. So, if anything, it suggests that we are at the beginning of infinity. Also, how long is a human lifetime? Illness and old age are going to be cured soon – certainly within the next few lifetimes – and technology will also be able to prevent deaths through homicide or accidents by creating backups of the states of brains, which could be uploaded into new, blank brains in identical bodies if a person should die. Once that technology exists, people will consider it considerably more foolish not to make frequent backups of themselves than they do today in regard to their computers. If nothing else, evolution alone will ensure that, because those who do not back themselves up will gradually die out. So there can be only one outcome: effective immortality for the whole human population, with the present generation being one of the last that will have short lives. That being so, if our species will nevertheless have a finite lifetime, then knowing the total number of humans who will ever live provides no upper bound on that lifetime, because it cannot tell us how long the potentially immortal humans of the future will live before the prophesied catastrophe
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 503 | location 7700-7708 | Added on Sunday, 25 June 2023 00:05:29
+
+Our world, which is so much larger, more unified, more intricate and more beautiful than that of Eratosthenes, and which we understand and control to an extent that would have seemed godlike to him, is nevertheless just as mysterious, yet open, to us now as his was to him then. We have lit only a few candles here and there. We can cower in their parochial light until something beyond our ken snuffs us out, or we can resist. We already see that we do not live in a senseless world. The laws of physics make sense: the world is explicable. There are higher levels of emergence and higher levels of explanation. Profound abstractions in mathematics, morality and aesthetics are accessible to us. Ideas of tremendous reach are possible. But there is also plenty in the world that does not and will not make sense until we ourselves work out how to rectify it. Death does not make sense. Stagnation does not make sense. A bubble of sense within endless senselessness does not make sense. Whether the world ultimately does make sense will depend on how people – the likes of us – chose to think and to act.
+==========
+The Beginning of Infinity (David Deutsch)
+- Your Highlight on page 503 | location 7700-7711 | Added on Sunday, 25 June 2023 00:05:53
+
+Our world, which is so much larger, more unified, more intricate and more beautiful than that of Eratosthenes, and which we understand and control to an extent that would have seemed godlike to him, is nevertheless just as mysterious, yet open, to us now as his was to him then. We have lit only a few candles here and there. We can cower in their parochial light until something beyond our ken snuffs us out, or we can resist. We already see that we do not live in a senseless world. The laws of physics make sense: the world is explicable. There are higher levels of emergence and higher levels of explanation. Profound abstractions in mathematics, morality and aesthetics are accessible to us. Ideas of tremendous reach are possible. But there is also plenty in the world that does not and will not make sense until we ourselves work out how to rectify it. Death does not make sense. Stagnation does not make sense. A bubble of sense within endless senselessness does not make sense. Whether the world ultimately does make sense will depend on how people – the likes of us – chose to think and to act. Many people have an aversion to infinity of various kinds. But there are some things that we do not have a choice about. There is only one way of thinking that is capable of making progress, or of surviving in the long run, and that is the way of seeking good explanations through creativity and criticism. What lies ahead of us is in any case infinity. All we can choose is whether it is an infinity of ignorance or of knowledge, wrong or right, death or life.
+==========
